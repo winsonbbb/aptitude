@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "A shirt originally costs £40. It is reduced by 25% in a sale. What is the new price?",
+    "options": [
+      "£30",
+      "£32",
+      "£35",
+      "£38"
+    ],
+    "correctIndex": 0,
+    "explanation": "25% of £40 = £10. New price = £40 - £10 = £30."
+  },
+  {
+    "question": "The ratio of boys to girls in a class is 3 : 2. If there are 30 children in total, how many girls are there?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total parts = 3 + 2 = 5. One part = 30 ÷ 5 = 6. Girls = 2 × 6 = 12."
+  },
+  {
+    "question": "If a price increases from £50 to £60, what is the percentage increase?",
+    "options": [
+      "10%",
+      "16.7%",
+      "20%",
+      "25%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Increase = £10. Percentage = (10/50) × 100 = 20%."
+  },
+  {
+    "question": "What is 15% of 280?",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "45"
+    ],
+    "correctIndex": 2,
+    "explanation": "15% of 280 = 0.15 × 280 = 42."
+  },
+  {
+    "question": "A recipe uses flour and sugar in the ratio 4 : 1. If 500g of flour is used, how much sugar is needed?",
+    "options": [
+      "100g",
+      "125g",
+      "150g",
+      "200g"
+    ],
+    "correctIndex": 1,
+    "explanation": "4 parts = 500g, so 1 part = 500 ÷ 4 = 125g. Sugar = 1 part = 125g."
+  },
+  {
+    "question": "The average of five numbers is 20. What is their sum?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "150"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = average × count = 20 × 5 = 100."
+  },
+  {
+    "question": "A discount of 20% is applied twice in a row. What is the overall percentage discount? (to nearest whole %)",
+    "options": [
+      "36%",
+      "38%",
+      "40%",
+      "44%"
+    ],
+    "correctIndex": 0,
+    "explanation": "After first discount: 80% of original. After second: 80% of 80% = 64%. So total discount = 100% - 64% = 36%."
+  },
+  {
+    "question": "If 3x = 27, what is x?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "x = 27 ÷ 3 = 9."
+  },
+  {
+    "question": "A train travels 120 km in 2 hours. What is its average speed in km/h?",
+    "options": [
+      "50 km/h",
+      "60 km/h",
+      "70 km/h",
+      "80 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "Speed = distance ÷ time = 120 ÷ 2 = 60 km/h."
+  },
+  {
+    "question": "What is 7/8 as a percentage (to one decimal place)?",
+    "options": [
+      "85.5%",
+      "86.5%",
+      "87.5%",
+      "88.5%"
+    ],
+    "correctIndex": 2,
+    "explanation": "7 ÷ 8 = 0.875. 0.875 × 100 = 87.5%."
+  },
+  {
+    "question": "A shop raises the price of an item from £80 to £92. What is the percentage increase?",
+    "options": [
+      "12%",
+      "15%",
+      "18%",
+      "20%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Increase = £12. Percentage = (12/80) × 100 = 15%."
+  },
+  {
+    "question": "In a ratio 2 : 5, if the smaller part is 14, what is the larger part?",
+    "options": [
+      "28",
+      "35",
+      "42",
+      "49"
+    ],
+    "correctIndex": 1,
+    "explanation": "2 parts = 14, so 1 part = 7. Larger part = 5 × 7 = 35."
+  },
+  {
+    "question": "What is 1/5 as a percentage?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "50%"
+    ],
+    "correctIndex": 1,
+    "explanation": "1 ÷ 5 = 0.2. 0.2 × 100 = 20%."
+  },
+  {
+    "question": "The sum of four numbers is 88. What is their average?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correctIndex": 1,
+    "explanation": "Average = sum ÷ count = 88 ÷ 4 = 22."
+  },
+  {
+    "question": "If 25% of a number is 50, what is the number?",
+    "options": [
+      "150",
+      "200",
+      "250",
+      "300"
+    ],
+    "correctIndex": 1,
+    "explanation": "Number = 50 ÷ 0.25 = 200."
+  },
+  {
+    "question": "A car travels 240 km on 20 litres of fuel. How many km per litre?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctIndex": 1,
+    "explanation": "240 ÷ 20 = 12 km per litre."
+  },
+  {
+    "question": "What is 12 × 0.25?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "12 × 0.25 = 12 ÷ 4 = 3."
+  },
+  {
+    "question": "A salary of £24,000 is increased by 5%. What is the new salary?",
+    "options": [
+      "£25,000",
+      "£25,200",
+      "£26,000",
+      "£26,400"
+    ],
+    "correctIndex": 1,
+    "explanation": "5% of £24,000 = £1,200. New salary = £24,000 + £1,200 = £25,200."
+  },
+  {
+    "question": "How many minutes are in 2.5 hours?",
+    "options": [
+      "120",
+      "150",
+      "180",
+      "200"
+    ],
+    "correctIndex": 1,
+    "explanation": "2.5 × 60 = 150 minutes."
+  },
+  {
+    "question": "What is 18% of 200?",
+    "options": [
+      "32",
+      "36",
+      "40",
+      "44"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.18 × 200 = 36."
+  },
+  {
+    "question": "If 4x + 8 = 24, what is x?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "4x = 16, so x = 4."
+  },
+  {
+    "question": "If a bag costs £15 and is sold for £18, what is the profit percentage?",
+    "options": [
+      "15%",
+      "18%",
+      "20%",
+      "25%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Profit = £3. Percentage = (3/15) × 100 = 20%."
+  },
+  {
+    "question": "Calculate the simple interest on £1,000 at 5% per annum for 4 years.",
+    "options": [
+      "£150",
+      "£180",
+      "£200",
+      "£250"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interest = Principal × Rate × Time = 1000 × 0.05 × 4 = £200."
+  },
+  {
+    "question": "A car travels at 80 km/h. How far does it travel in 1 hour and 15 minutes?",
+    "options": [
+      "90 km",
+      "95 km",
+      "100 km",
+      "105 km"
+    ],
+    "correctIndex": 2,
+    "explanation": "1h 15m = 1.25 hours. Distance = 80 × 1.25 = 100 km."
+  },
+  {
+    "question": "Simplify the equation: 2x + 5 = 17. What is x?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "explanation": "2x = 12, so x = 6."
+  },
+  {
+    "question": "What is the average of 12, 15, 18, 21, and 24?",
+    "options": [
+      "16",
+      "18",
+      "20",
+      "22"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 90. Average = 90 ÷ 5 = 18."
+  },
+  {
+    "question": "The ratio of red balls to blue balls is 2:3. If there are 15 blue balls, how many red balls are there?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 1,
+    "explanation": "3 parts = 15, so 1 part = 5. Red balls = 2 parts = 10."
+  },
+  {
+    "question": "Convert 0.625 into a fraction in its simplest form.",
+    "options": [
+      "1/2",
+      "3/8",
+      "5/8",
+      "3/4"
+    ],
+    "correctIndex": 2,
+    "explanation": "0.625 = 625/1000 = 5/8."
+  },
+  {
+    "question": "A product is marked at £250. After a 15% discount, what is the final price?",
+    "options": [
+      "£210.50",
+      "£212.50",
+      "£215.00",
+      "£220.00"
+    ],
+    "correctIndex": 1,
+    "explanation": "Discount = 0.15 × 250 = £37.50. Price = 250 - 37.50 = £212.50."
+  },
+  {
+    "question": "If a worker earns £12 per hour and works 38 hours a week, what is their weekly wage?",
+    "options": [
+      "£440",
+      "£450",
+      "£456",
+      "£460"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wage = 12 × 38 = £456."
+  },
+  {
+    "question": "What is 3/7 of 49?",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "35"
+    ],
+    "correctIndex": 1,
+    "explanation": "49 ÷ 7 = 7. 7 × 3 = 21."
+  },
+  {
+    "question": "Solve for y: 3(y - 2) = 15.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "explanation": "y - 2 = 5, so y = 7."
+  },
+  {
+    "question": "A shopkeeper buys a crate of apples for £20 and sells them for £25. What is the percentage profit?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Profit = £5. Percentage = (5/20) × 100 = 25%."
+  },
+  {
+    "question": "How many grams are there in 2.75 kilograms?",
+    "options": [
+      "275g",
+      "2750g",
+      "27500g",
+      "2.75g"
+    ],
+    "correctIndex": 1,
+    "explanation": "1 kg = 1000g. 2.75 × 1000 = 2750g."
+  },
+  {
+    "question": "The sum of three consecutive integers is 45. What is the largest of these integers?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctIndex": 2,
+    "explanation": "Let integers be n-1, n, n+1. Sum = 3n = 45, so n = 15. Largest = 16."
+  },
+  {
+    "question": "If a car's fuel tank is 2/3 full and it holds 60 litres when full, how many litres are currently in the tank?",
+    "options": [
+      "30",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctIndex": 1,
+    "explanation": "(2/3) × 60 = 40 litres."
+  },
+  {
+    "question": "A distance of 120 miles is covered in 3 hours. What is the average speed?",
+    "options": [
+      "35 mph",
+      "40 mph",
+      "45 mph",
+      "50 mph"
+    ],
+    "correctIndex": 1,
+    "explanation": "Speed = 120 ÷ 3 = 40 mph."
+  },
+  {
+    "question": "What is the value of 0.4 × 0.2?",
+    "options": [
+      "0.8",
+      "0.08",
+      "0.008",
+      "8.0"
+    ],
+    "correctIndex": 1,
+    "explanation": "4 × 2 = 8. Move decimal two places: 0.08."
+  },
+  {
+    "question": "In a class of 40 students, 60% are boys. How many girls are in the class?",
+    "options": [
+      "12",
+      "16",
+      "20",
+      "24"
+    ],
+    "correctIndex": 1,
+    "explanation": "Boys = 0.6 × 40 = 24. Girls = 40 - 24 = 16."
+  },
+  {
+    "question": "Calculate the simple interest on £2,000 at 3% per annum for 5 years.",
+    "options": [
+      "£200",
+      "£250",
+      "£300",
+      "£350"
+    ],
+    "correctIndex": 2,
+    "explanation": "Interest = 2000 × 0.03 × 5 = £300."
+  },
+  {
+    "question": "Divide £120 in the ratio 1:2:3. What is the smallest share?",
+    "options": [
+      "£10",
+      "£20",
+      "£30",
+      "£40"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total parts = 1+2+3=6. 120/6 = 20. Smallest part (1) = £20."
+  },
+  {
+    "question": "If 5 apples cost £1.50, how much do 12 apples cost?",
+    "options": [
+      "£3.00",
+      "£3.30",
+      "£3.60",
+      "£3.90"
+    ],
+    "correctIndex": 2,
+    "explanation": "One apple = 1.50 ÷ 5 = 0.30. 12 apples = 12 × 0.30 = £3.60."
+  },
+  {
+    "question": "What is the average of the first five prime numbers (2, 3, 5, 7, 11)?",
+    "options": [
+      "5.2",
+      "5.4",
+      "5.6",
+      "5.8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sum = 28. Average = 28 ÷ 5 = 5.6."
+  },
+  {
+    "question": "A shirt is reduced by 10% and then by another 10% of the new price. What is the total percentage discount?",
+    "options": [
+      "18%",
+      "19%",
+      "20%",
+      "21%"
+    ],
+    "correctIndex": 1,
+    "explanation": "First reduction: 90%. Second: 90% of 90% = 81%. Total discount = 100 - 81 = 19%."
+  },
+  {
+    "question": "Simplify: (1/2) + (1/4) + (1/8).",
+    "options": [
+      "5/8",
+      "6/8",
+      "7/8",
+      "1"
+    ],
+    "correctIndex": 2,
+    "explanation": "4/8 + 2/8 + 1/8 = 7/8."
+  },
+  {
+    "question": "If x/4 - 2 = 6, what is x?",
+    "options": [
+      "16",
+      "24",
+      "28",
+      "32"
+    ],
+    "correctIndex": 3,
+    "explanation": "x/4 = 8, so x = 32."
+  },
+  {
+    "question": "A bike travels 15 km in 45 minutes. What is its speed in km/h?",
+    "options": [
+      "18 km/h",
+      "20 km/h",
+      "22 km/h",
+      "24 km/h"
+    ],
+    "correctIndex": 1,
+    "explanation": "45 mins = 0.75 hours. Speed = 15 ÷ 0.75 = 20 km/h."
+  },
+  {
+    "question": "A shopkeeper loses 15% by selling a book for £17. What was the original cost price?",
+    "options": [
+      "£18",
+      "£19",
+      "£20",
+      "£21"
+    ],
+    "correctIndex": 2,
+    "explanation": "85% of price = 17. Price = 17 ÷ 0.85 = £20."
+  },
+  {
+    "question": "What is 0.05 expressed as a percentage?",
+    "options": [
+      "0.5%",
+      "5%",
+      "50%",
+      "0.05%"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.05 × 100 = 5%."
+  },
+  {
+    "question": "Find the average of 5.5, 6.5, 7.5, and 8.5.",
+    "options": [
+      "6.5",
+      "7.0",
+      "7.5",
+      "8.0"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 28. Average = 28 ÷ 4 = 7.0."
+  },
+  {
+    "question": "If a square has a perimeter of 32 cm, what is its area?",
+    "options": [
+      "32 cm²",
+      "48 cm²",
+      "64 cm²",
+      "81 cm²"
+    ],
+    "correctIndex": 2,
+    "explanation": "Side = 32 ÷ 4 = 8. Area = 8 × 8 = 64 cm²."
+  },
+  {
+    "question": "The ratio of income to expenditure of a family is 10:7. If the income is £2,000, what are the monthly savings?",
+    "options": [
+      "£400",
+      "£500",
+      "£600",
+      "£700"
+    ],
+    "correctIndex": 2,
+    "explanation": "Income = 10 parts = 2000, so 1 part = 200. Savings = 3 parts = £600."
+  },
+  {
+    "question": "What is the square root of 225?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctIndex": 2,
+    "explanation": "15 × 15 = 225."
+  },
+  {
+    "question": "A bus departs at 08:45 and arrives at 10:15. How long was the journey?",
+    "options": [
+      "1h 15m",
+      "1h 30m",
+      "1h 45m",
+      "2h"
+    ],
+    "correctIndex": 1,
+    "explanation": "From 08:45 to 09:45 is 1h. From 09:45 to 10:15 is 30m. Total = 1h 30m."
+  },
+  {
+    "question": "Solve for z: 4z + 10 = 2z + 30.",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "2z = 20, so z = 10."
+  },
+  {
+    "question": "What is 12.5% of 800?",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "correctIndex": 2,
+    "explanation": "12.5% is 1/8. 800 ÷ 8 = 100."
+  },
+  {
+    "question": "A rectangle has a length of 12 cm and a width of 5 cm. What is the length of its diagonal?",
+    "options": [
+      "13 cm",
+      "14 cm",
+      "15 cm",
+      "17 cm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Diagonal = sqrt(12² + 5²) = sqrt(144 + 25) = sqrt(169) = 13 cm."
+  },
+  {
+    "question": "A bank offers 4% simple interest per year. How much interest will £1,500 earn in 2 years?",
+    "options": [
+      "£100",
+      "£120",
+      "£140",
+      "£150"
+    ],
+    "correctIndex": 1,
+    "explanation": "Interest = 1500 × 0.04 × 2 = £120."
+  },
+  {
+    "question": "If 3/4 of a number is 24, what is the number?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "Number = (24 × 4) / 3 = 32."
+  },
+  {
+    "question": "The price of a gallon of gas increases from £3.20 to £3.60. What is the percentage increase?",
+    "options": [
+      "10%",
+      "12%",
+      "12.5%",
+      "15%"
+    ],
+    "correctIndex": 2,
+    "explanation": "Increase = £0.40. Percentage = (0.40 / 3.20) × 100 = 12.5%."
+  },
+  {
+    "question": "What is the average of 10, 20, and 60?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 90. Average = 90 ÷ 3 = 30."
+  },
+  {
+    "question": "Solve: 0.5x = 4.",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correctIndex": 2,
+    "explanation": "x = 4 ÷ 0.5 = 8."
+  },
+  {
+    "question": "A car uses 5 litres of petrol for 100 km. How much petrol is needed for 350 km?",
+    "options": [
+      "15 L",
+      "17.5 L",
+      "20 L",
+      "22.5 L"
+    ],
+    "correctIndex": 1,
+    "explanation": "5 litres per 100 km means 0.05 L per km. 350 × 0.05 = 17.5 L."
+  },
+  {
+    "question": "What is the ratio of 45 minutes to 2 hours simplified?",
+    "options": [
+      "3:8",
+      "4:9",
+      "5:12",
+      "1:4"
+    ],
+    "correctIndex": 0,
+    "explanation": "45 mins : 120 mins. Divide by 15: 3:8."
+  },
+  {
+    "question": "An item is sold for £92 after a profit of 15%. What was the cost price?",
+    "options": [
+      "£75",
+      "£80",
+      "£85",
+      "£90"
+    ],
+    "correctIndex": 1,
+    "explanation": "115% of price = 92. Price = 92 ÷ 1.15 = £80."
+  },
+  {
+    "question": "Calculate (3/5) ÷ (2/3).",
+    "options": [
+      "2/5",
+      "6/15",
+      "9/10",
+      "1/2"
+    ],
+    "correctIndex": 2,
+    "explanation": "(3/5) × (3/2) = 9/10."
+  },
+  {
+    "question": "What is 0.8% of 5,000?",
+    "options": [
+      "4",
+      "40",
+      "400",
+      "4000"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.008 × 5000 = 40."
+  },
+  {
+    "question": "If 7x - 3 = 4x + 9, what is x?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 2,
+    "explanation": "3x = 12, so x = 4."
+  },
+  {
+    "question": "A person walks at a constant speed of 4 km/h. How long will it take to walk 10 km?",
+    "options": [
+      "2 hours",
+      "2.25 hours",
+      "2.5 hours",
+      "3 hours"
+    ],
+    "correctIndex": 2,
+    "explanation": "Time = 10 ÷ 4 = 2.5 hours."
+  },
+  {
+    "question": "What is the simple interest on £800 for 1 year at an interest rate of 2.5%?",
+    "options": [
+      "£15",
+      "£20",
+      "£25",
+      "£30"
+    ],
+    "correctIndex": 1,
+    "explanation": "Interest = 800 × 0.025 = £20."
+  },
+  {
+    "question": "What is the ratio of 250g to 1kg simplified?",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:4",
+      "1:5"
+    ],
+    "correctIndex": 2,
+    "explanation": "250g : 1000g. Divide by 250: 1:4."
+  },
+  {
+    "question": "Find the average of 15, 25, 35, 45, and 55.",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 175. Average = 175 ÷ 5 = 35."
+  },
+  {
+    "question": "What percentage is 40 out of 250?",
+    "options": [
+      "12%",
+      "14%",
+      "16%",
+      "18%"
+    ],
+    "correctIndex": 2,
+    "explanation": "(40/250) × 100 = 16%."
+  },
+  {
+    "question": "If a number is increased by 20% and then decreased by 20% of the new number, what is the net percentage change?",
+    "options": [
+      "No change",
+      "2% decrease",
+      "4% decrease",
+      "4% increase"
+    ],
+    "correctIndex": 2,
+    "explanation": "100 -> 120 -> 96. Net change = 4% decrease."
+  },
+  {
+    "question": "Solve the equation: (x + 3) / 2 = 10.",
+    "options": [
+      "14",
+      "15",
+      "17",
+      "23"
+    ],
+    "correctIndex": 2,
+    "explanation": "x + 3 = 20, so x = 17."
+  },
+  {
+    "question": "What is 2/9 of 81?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "correctIndex": 2,
+    "explanation": "81 ÷ 9 = 9. 9 × 2 = 18."
+  },
+  {
+    "question": "A journey takes 4 hours at an average speed of 60 km/h. At what speed would the same journey take 3 hours?",
+    "options": [
+      "70 km/h",
+      "75 km/h",
+      "80 km/h",
+      "90 km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Distance = 4 × 60 = 240 km. Speed = 240 ÷ 3 = 80 km/h."
+  },
+  {
+    "question": "If 12% of a number x is 72, what is x?",
+    "options": [
+      "500",
+      "550",
+      "600",
+      "650"
+    ],
+    "correctIndex": 2,
+    "explanation": "x = 72 ÷ 0.12 = 600."
+  },
+  {
+    "question": "What is the sum of 1/3 and 1/6?",
+    "options": [
+      "1/2",
+      "2/3",
+      "2/9",
+      "1/9"
+    ],
+    "correctIndex": 0,
+    "explanation": "2/6 + 1/6 = 3/6 = 1/2."
+  },
+  {
+    "question": "A man buys a watch for £60 and sells it for £45. What is his loss percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "35%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loss = £15. Percentage = (15/60) × 100 = 25%."
+  },
+  {
+    "question": "Calculate the average of 0.2, 0.4, 0.6, 0.8, and 1.0.",
+    "options": [
+      "0.4",
+      "0.5",
+      "0.6",
+      "0.7"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sum = 3.0. Average = 3.0 ÷ 5 = 0.6."
+  },
+  {
+    "question": "If the ratio of A:B is 3:4 and the ratio of B:C is 5:6, what is the ratio of A:C?",
+    "options": [
+      "1:2",
+      "5:8",
+      "3:6",
+      "15:24"
+    ],
+    "correctIndex": 1,
+    "explanation": "A/B = 3/4, B/C = 5/6. A/C = (3/4) * (5/6) = 15/24 = 5/8."
+  },
+  {
+    "question": "What is 15% of 15% of 10,000?",
+    "options": [
+      "150",
+      "225",
+      "300",
+      "450"
+    ],
+    "correctIndex": 1,
+    "explanation": "15% of 10000 = 1500. 15% of 1500 = 225."
+  },
+  {
+    "question": "Solve the equation: 5(x + 2) - 3(x - 1) = 17.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "5x + 10 - 3x + 3 = 17 => 2x + 13 = 17 => 2x = 4, x = 2."
+  },
+  {
+    "question": "A train 100 metres long passes a static pole in 5 seconds. What is its speed in m/s?",
+    "options": [
+      "15 m/s",
+      "20 m/s",
+      "25 m/s",
+      "30 m/s"
+    ],
+    "correctIndex": 1,
+    "explanation": "Speed = Distance ÷ Time = 100 ÷ 5 = 20 m/s."
+  },
+  {
+    "question": "What is 7/20 expressed as a decimal?",
+    "options": [
+      "0.3",
+      "0.35",
+      "0.4",
+      "0.45"
+    ],
+    "correctIndex": 1,
+    "explanation": "7 ÷ 20 = 35 ÷ 100 = 0.35."
+  },
+  {
+    "question": "If 40% of a number is 160, what is 25% of that same number?",
+    "options": [
+      "80",
+      "100",
+      "120",
+      "140"
+    ],
+    "correctIndex": 1,
+    "explanation": "The number is 160 ÷ 0.4 = 400. 25% of 400 = 100."
+  },
+  {
+    "question": "An item costs £120 including 20% tax. What is the price before tax?",
+    "options": [
+      "£96",
+      "£100",
+      "£105",
+      "£110"
+    ],
+    "correctIndex": 1,
+    "explanation": "120% = 120. 100% = 100."
+  },
+  {
+    "question": "The average of three numbers is 10. Two of the numbers are 8 and 12. What is the third number?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum must be 3 × 10 = 30. 8 + 12 = 20. Third number = 30 - 20 = 10."
+  },
+  {
+    "question": "If 8 workers can finish a job in 6 hours, how long will it take 12 workers to finish the same job?",
+    "options": [
+      "3 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total work = 8 × 6 = 48 worker-hours. Time for 12 workers = 48 ÷ 12 = 4 hours."
+  },
+  {
+    "question": "What is the difference between 3/4 and 2/3?",
+    "options": [
+      "1/6",
+      "1/10",
+      "1/12",
+      "1/15"
+    ],
+    "correctIndex": 2,
+    "explanation": "9/12 - 8/12 = 1/12."
+  },
+  {
+    "question": "Solve: 2^3 + 3^2.",
+    "options": [
+      "12",
+      "15",
+      "17",
+      "21"
+    ],
+    "correctIndex": 2,
+    "explanation": "8 + 9 = 17."
+  },
+  {
+    "question": "A sum of money triples in 10 years with simple interest. What is the annual interest rate?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correctIndex": 2,
+    "explanation": "To triple, interest earned must be 200% of principal. Rate = 200% / 10 years = 20%."
+  },
+  {
+    "question": "What is the ratio of the areas of two squares with sides of 2 cm and 4 cm respectively?",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:4",
+      "1:8"
+    ],
+    "correctIndex": 2,
+    "explanation": "Areas are 4 cm² and 16 cm². Ratio = 4:16 = 1:4."
+  },
+  {
+    "question": "What is 120% of 50?",
+    "options": [
+      "55",
+      "60",
+      "65",
+      "70"
+    ],
+    "correctIndex": 1,
+    "explanation": "1.2 × 50 = 60."
+  },
+  {
+    "question": "If 0.3x = 0.09, what is x?",
+    "options": [
+      "0.03",
+      "0.3",
+      "3",
+      "30"
+    ],
+    "correctIndex": 1,
+    "explanation": "x = 0.09 ÷ 0.3 = 0.3."
+  },
+  {
+    "question": "What is the average speed of a car that covers 10 km in 10 minutes and then 20 km in 20 minutes?",
+    "options": [
+      "45 km/h",
+      "50 km/h",
+      "60 km/h",
+      "75 km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Total distance = 30 km. Total time = 30 minutes = 0.5 hours. Speed = 30 ÷ 0.5 = 60 km/h."
+  },
+  {
+    "question": "What is 5/8 of 1000?",
+    "options": [
+      "525",
+      "600",
+      "625",
+      "675"
+    ],
+    "correctIndex": 2,
+    "explanation": "1000 ÷ 8 = 125. 125 × 5 = 625."
+  },
+  {
+    "question": "Solve for x: (2x - 1) / 3 = x / 2.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "2(2x - 1) = 3x => 4x - 2 = 3x => x = 2."
+  },
+  {
+    "question": "If the price of a commodity drops from £2.50 to £2.00, what is the percentage decrease?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctIndex": 1,
+    "explanation": "Decrease = £0.50. Percentage = (0.50 / 2.50) × 100 = 20%."
+  }
+]

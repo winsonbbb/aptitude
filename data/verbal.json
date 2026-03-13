@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Choose the word most similar in meaning to PROFICIENT.",
+    "options": [
+      "Skilled",
+      "Lazy",
+      "Confused",
+      "Rude"
+    ],
+    "correctIndex": 0,
+    "explanation": "Proficient means skilled or competent at something."
+  },
+  {
+    "question": "Choose the word opposite in meaning to BRIEF.",
+    "options": [
+      "Short",
+      "Long",
+      "Quick",
+      "Small"
+    ],
+    "correctIndex": 1,
+    "explanation": "Brief means short in duration; the opposite is long."
+  },
+  {
+    "question": "Choose the word most similar in meaning to RELUCTANT.",
+    "options": [
+      "Eager",
+      "Willing",
+      "Unwilling",
+      "Happy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Reluctant means unwilling or hesitant to do something."
+  },
+  {
+    "question": "Choose the word opposite in meaning to ABSURD.",
+    "options": [
+      "Silly",
+      "Rational",
+      "Strange",
+      "Funny"
+    ],
+    "correctIndex": 1,
+    "explanation": "Absurd means unreasonable or ridiculous; rational is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to AMBIGUOUS.",
+    "options": [
+      "Clear",
+      "Unclear",
+      "Obvious",
+      "Simple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ambiguous means open to more than one interpretation; unclear."
+  },
+  {
+    "question": "Choose the word opposite in meaning to GENEROUS.",
+    "options": [
+      "Kind",
+      "Stingy",
+      "Giving",
+      "Friendly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Generous means giving freely; stingy (or mean) is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to PERSISTENT.",
+    "options": [
+      "Quitting",
+      "Determined",
+      "Lazy",
+      "Weak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Persistent means continuing firmly despite difficulty; determined."
+  },
+  {
+    "question": "Choose the word opposite in meaning to ANCIENT.",
+    "options": [
+      "Old",
+      "Modern",
+      "Historic",
+      "Classic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ancient means very old; modern is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to VIGOROUS.",
+    "options": [
+      "Weak",
+      "Energetic",
+      "Tired",
+      "Slow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vigorous means strong, healthy, or full of energy."
+  },
+  {
+    "question": "Choose the word opposite in meaning to CONCEAL.",
+    "options": [
+      "Hide",
+      "Reveal",
+      "Cover",
+      "Protect"
+    ],
+    "correctIndex": 1,
+    "explanation": "Conceal means to hide; reveal means to make known."
+  },
+  {
+    "question": "Choose the word most similar in meaning to CONCISE.",
+    "options": [
+      "Long",
+      "Brief",
+      "Confusing",
+      "Detailed"
+    ],
+    "correctIndex": 1,
+    "explanation": "Concise means brief and to the point."
+  },
+  {
+    "question": "Choose the word opposite in meaning to DILIGENT.",
+    "options": [
+      "Hardworking",
+      "Careless",
+      "Careful",
+      "Busy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diligent means careful and hardworking; careless is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to ENORMOUS.",
+    "options": [
+      "Tiny",
+      "Huge",
+      "Average",
+      "Heavy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Enormous means very large; huge is a synonym."
+  },
+  {
+    "question": "Choose the word opposite in meaning to FRAGILE.",
+    "options": [
+      "Delicate",
+      "Strong",
+      "Broken",
+      "Light"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fragile means easily broken; strong is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to HESITATE.",
+    "options": [
+      "Rush",
+      "Pause",
+      "Decide",
+      "Finish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hesitate means to pause or hold back before acting."
+  },
+  {
+    "question": "Choose the word opposite in meaning to MINOR.",
+    "options": [
+      "Small",
+      "Major",
+      "Young",
+      "Trivial"
+    ],
+    "correctIndex": 1,
+    "explanation": "Minor means lesser in importance; major is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to OBSTACLE.",
+    "options": [
+      "Help",
+      "Barrier",
+      "Path",
+      "Ease"
+    ],
+    "correctIndex": 1,
+    "explanation": "Obstacle means something that blocks or hinders; a barrier."
+  },
+  {
+    "question": "Choose the word opposite in meaning to PERMANENT.",
+    "options": [
+      "Fixed",
+      "Temporary",
+      "Long",
+      "Stable"
+    ],
+    "correctIndex": 1,
+    "explanation": "Permanent means lasting; temporary is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to PRECISE.",
+    "options": [
+      "Vague",
+      "Exact",
+      "Rough",
+      "Wrong"
+    ],
+    "correctIndex": 1,
+    "explanation": "Precise means exact and accurate."
+  },
+  {
+    "question": "Choose the word opposite in meaning to RAPID.",
+    "options": [
+      "Fast",
+      "Slow",
+      "Quick",
+      "Sudden"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rapid means fast; slow is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to RELIABLE.",
+    "options": [
+      "Uncertain",
+      "Trustworthy",
+      "Risky",
+      "Broken"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reliable means dependable or trustworthy."
+  },
+  {
+    "question": "Choose the word opposite in meaning to SUPERFICIAL.",
+    "options": [
+      "Shallow",
+      "Deep",
+      "Surface",
+      "Light"
+    ],
+    "correctIndex": 1,
+    "explanation": "Superficial means surface-level; deep is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to ADAPT.",
+    "options": [
+      "Adjust",
+      "Stay",
+      "Break",
+      "Refuse"
+    ],
+    "correctIndex": 0,
+    "explanation": "To adapt means to become adjusted to new conditions."
+  },
+  {
+    "question": "Choose the word opposite in meaning to VAGUE.",
+    "options": [
+      "Unclear",
+      "Faint",
+      "Clear",
+      "Dim"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vague means uncertain or unclear; clear is the opposite."
+  },
+  {
+    "question": "Bird is to Fly as Fish is to:",
+    "options": [
+      "Walk",
+      "Swim",
+      "Run",
+      "Jump"
+    ],
+    "correctIndex": 1,
+    "explanation": "A bird moves by flying; a fish moves by swimming."
+  },
+  {
+    "question": "Complete the sentence: She was so _____ that she finished the complex task in record time.",
+    "options": [
+      "Lazy",
+      "Efficient",
+      "Slow",
+      "Confused"
+    ],
+    "correctIndex": 1,
+    "explanation": "Efficient means achieving maximum productivity with minimum wasted effort."
+  },
+  {
+    "question": "Choose the word most similar in meaning to BENEVOLENT.",
+    "options": [
+      "Cruel",
+      "Kind",
+      "Greedy",
+      "Selfish"
+    ],
+    "correctIndex": 1,
+    "explanation": "Benevolent means well-meaning and kindly."
+  },
+  {
+    "question": "Choose the word opposite in meaning to COMPLICATED.",
+    "options": [
+      "Difficult",
+      "Complex",
+      "Simple",
+      "Hard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Complicated means consisting of many interconnecting parts; simple is the opposite."
+  },
+  {
+    "question": "Book is to Reading as Fork is to:",
+    "options": [
+      "Slicing",
+      "Eating",
+      "Drinking",
+      "Washing"
+    ],
+    "correctIndex": 1,
+    "explanation": "A book is used for reading; a fork is used for eating."
+  },
+  {
+    "question": "Complete the sentence: The _____ of the movie was completely unexpected by the audience.",
+    "options": [
+      "Title",
+      "Ending",
+      "Director",
+      "Duration"
+    ],
+    "correctIndex": 1,
+    "explanation": "The ending of a story is usually where surprises occur."
+  },
+  {
+    "question": "Choose the word most similar in meaning to CANDID.",
+    "options": [
+      "Secretive",
+      "Dishonest",
+      "Honest",
+      "Reserved"
+    ],
+    "correctIndex": 2,
+    "explanation": "Candid means truthful and straightforward; frank."
+  },
+  {
+    "question": "Choose the word opposite in meaning to EXPAND.",
+    "options": [
+      "Grow",
+      "Enlarge",
+      "Shrink",
+      "Stretch"
+    ],
+    "correctIndex": 2,
+    "explanation": "Expand means to become larger; shrink means to become smaller."
+  },
+  {
+    "question": "Teacher is to School as Doctor is to:",
+    "options": [
+      "Garage",
+      "Library",
+      "Hospital",
+      "Airport"
+    ],
+    "correctIndex": 2,
+    "explanation": "A teacher works in a school; a doctor works in a hospital."
+  },
+  {
+    "question": "Complete the sentence: He gave a _____ explanation that only took two minutes.",
+    "options": [
+      "Long",
+      "Detailed",
+      "Brief",
+      "Complex"
+    ],
+    "correctIndex": 2,
+    "explanation": "Brief means lasting for a short time."
+  },
+  {
+    "question": "Choose the word most similar in meaning to DECEPTIVE.",
+    "options": [
+      "Honest",
+      "Clear",
+      "Misleading",
+      "Helpful"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deceptive means giving an appearance different from the true one."
+  },
+  {
+    "question": "Choose the word opposite in meaning to FIERCE.",
+    "options": [
+      "Violent",
+      "Gentle",
+      "Angry",
+      "Strong"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fierce means intense or aggressive; gentle is the opposite."
+  },
+  {
+    "question": "Glove is to Hand as Sock is to:",
+    "options": [
+      "Foot",
+      "Leg",
+      "Arm",
+      "Head"
+    ],
+    "correctIndex": 0,
+    "explanation": "A glove covers a hand; a sock covers a foot."
+  },
+  {
+    "question": "Complete the sentence: The weather was too _____ to go outside for a walk.",
+    "options": [
+      "Pleasant",
+      "Stormy",
+      "Sunny",
+      "Warm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Stormy weather would prevent someone from going for a walk."
+  },
+  {
+    "question": "Choose the word most similar in meaning to ELIGIBLE.",
+    "options": [
+      "Unfit",
+      "Qualified",
+      "Incapable",
+      "Banned"
+    ],
+    "correctIndex": 1,
+    "explanation": "Eligible means satisfying the appropriate conditions; qualified."
+  },
+  {
+    "question": "Choose the word opposite in meaning to GENUINE.",
+    "options": [
+      "Real",
+      "Authentic",
+      "Fake",
+      "True"
+    ],
+    "correctIndex": 2,
+    "explanation": "Genuine means truly what something is said to be; fake is the opposite."
+  },
+  {
+    "question": "Lion is to Roar as Snake is to:",
+    "options": [
+      "Hiss",
+      "Bark",
+      "Meow",
+      "Chirp"
+    ],
+    "correctIndex": 0,
+    "explanation": "A lion makes a roar; a snake makes a hiss."
+  },
+  {
+    "question": "Complete the sentence: Achieving success requires great _____ and hard work over many years.",
+    "options": [
+      "Impatience",
+      "Patience",
+      "Laziness",
+      "Fear"
+    ],
+    "correctIndex": 1,
+    "explanation": "Patience is often required for long-term success."
+  },
+  {
+    "question": "Choose the word most similar in meaning to FLAWLESS.",
+    "options": [
+      "Broken",
+      "Perfect",
+      "Dirty",
+      "Ugly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Flawless means without any imperfections or defects."
+  },
+  {
+    "question": "Choose the word opposite in meaning to HUMBLE.",
+    "options": [
+      "Modest",
+      "Proud",
+      "Shy",
+      "Quiet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Humble means having a low estimate of one's importance; proud is the opposite."
+  },
+  {
+    "question": "Keyboard is to Type as Mouse is to:",
+    "options": [
+      "Click",
+      "Speak",
+      "Listen",
+      "See"
+    ],
+    "correctIndex": 0,
+    "explanation": "A keyboard is used to type; a mouse is used to click."
+  },
+  {
+    "question": "Complete the sentence: Please _____ the document carefully before you sign it.",
+    "options": [
+      "Ignore",
+      "Review",
+      "Destroy",
+      "Forget"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reviewing a document is important before signing."
+  },
+  {
+    "question": "Choose the word most similar in meaning to GRACIOUS.",
+    "options": [
+      "Rude",
+      "Polite",
+      "Mean",
+      "Loud"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gracious means courteous, kind, and pleasant."
+  },
+  {
+    "question": "Choose the word opposite in meaning to INFERIOR.",
+    "options": [
+      "Lower",
+      "Worse",
+      "Superior",
+      "Equal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Inferior means lower in rank or quality; superior is the opposite."
+  },
+  {
+    "question": "Rain is to Umbrella as Sun is to:",
+    "options": [
+      "Sunglasses",
+      "Shoes",
+      "Gloves",
+      "Wallet"
+    ],
+    "correctIndex": 0,
+    "explanation": "An umbrella protects from rain; sunglasses protect from the sun."
+  },
+  {
+    "question": "Complete the sentence: Her _____ attitude made every new employee feel welcome.",
+    "options": [
+      "Hostile",
+      "Friendly",
+      "Cold",
+      "Strict"
+    ],
+    "correctIndex": 1,
+    "explanation": "A friendly attitude makes people feel welcome."
+  },
+  {
+    "question": "Choose the word most similar in meaning to HAZARDOUS.",
+    "options": [
+      "Safe",
+      "Easy",
+      "Dangerous",
+      "Small"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hazardous means risky or dangerous."
+  },
+  {
+    "question": "Choose the word opposite in meaning to JUVENILE.",
+    "options": [
+      "Childish",
+      "Young",
+      "Adult",
+      "Small"
+    ],
+    "correctIndex": 2,
+    "explanation": "Juvenile relates to young people; adult is the opposite."
+  },
+  {
+    "question": "Clock is to Time as Thermometer is to:",
+    "options": [
+      "Weight",
+      "Distance",
+      "Temperature",
+      "Speed"
+    ],
+    "correctIndex": 2,
+    "explanation": "A clock measures time; a thermometer measures temperature."
+  },
+  {
+    "question": "Complete the sentence: The project was completed two days _____ the deadline.",
+    "options": [
+      "After",
+      "Before",
+      "During",
+      "Towards"
+    ],
+    "correctIndex": 1,
+    "explanation": "Completing a project before the deadline is generally desired."
+  },
+  {
+    "question": "Choose the word most similar in meaning to IMMENSE.",
+    "options": [
+      "Tiny",
+      "Vast",
+      "Average",
+      "Narrow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Immense means extremely large or great."
+  },
+  {
+    "question": "Choose the word opposite in meaning to LOYAL.",
+    "options": [
+      "Faithful",
+      "Devoted",
+      "Treacherous",
+      "True"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loyal means giving firm support; treacherous means guilty of betrayal."
+  },
+  {
+    "question": "Pen is to Write as Scissors is to:",
+    "options": [
+      "Tape",
+      "Stick",
+      "Cut",
+      "Glue"
+    ],
+    "correctIndex": 2,
+    "explanation": "A pen is used for writing; scissors are used for cutting."
+  },
+  {
+    "question": "Complete the sentence: He is _____ for his significant contributions to modern science.",
+    "options": [
+      "Unknown",
+      "Famous",
+      "Quiet",
+      "Lazy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Someone who contributes significantly is usually famous."
+  },
+  {
+    "question": "Choose the word most similar in meaning to JOVIAL.",
+    "options": [
+      "Sad",
+      "Cheerful",
+      "Angry",
+      "Bored"
+    ],
+    "correctIndex": 1,
+    "explanation": "Jovial means cheerful and friendly."
+  },
+  {
+    "question": "Choose the word opposite in meaning to MOURN.",
+    "options": [
+      "Cry",
+      "Celebrate",
+      "Grieve",
+      "Suffer"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mourn means to feel sorrow; celebrate is the opposite."
+  },
+  {
+    "question": "Car is to Road as Boat is to:",
+    "options": [
+      "Sky",
+      "Water",
+      "Rails",
+      "Air"
+    ],
+    "correctIndex": 1,
+    "explanation": "A car travels on a road; a boat travels on water."
+  },
+  {
+    "question": "Complete the sentence: It is _____ to wear a seatbelt while driving in most countries.",
+    "options": [
+      "Optional",
+      "Mandatory",
+      "Forbidden",
+      "Unusual"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mandatory means required by law or rules."
+  },
+  {
+    "question": "Choose the word most similar in meaning to LETHARGIC.",
+    "options": [
+      "Active",
+      "Fast",
+      "Sluggish",
+      "Bright"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lethargic means affected by lethargy; sluggish and apathetic."
+  },
+  {
+    "question": "Choose the word opposite in meaning to NOBLE.",
+    "options": [
+      "Grand",
+      "Honorable",
+      "Ignoble",
+      "High"
+    ],
+    "correctIndex": 2,
+    "explanation": "Noble means having high moral principles; ignoble is the opposite."
+  },
+  {
+    "question": "Hammer is to Nail as Screwdriver is to:",
+    "options": [
+      "Bolt",
+      "Nut",
+      "Screw",
+      "Wrench"
+    ],
+    "correctIndex": 2,
+    "explanation": "A hammer drives a nail; a screwdriver drives a screw."
+  },
+  {
+    "question": "Complete the sentence: The _____ of the mountain was difficult due to the steep terrain.",
+    "options": [
+      "Descent",
+      "Ascent",
+      "Middle",
+      "Base"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ascent means a climb or walk to the summit of a mountain."
+  },
+  {
+    "question": "Choose the word most similar in meaning to METICULOUS.",
+    "options": [
+      "Careless",
+      "Fast",
+      "Careful",
+      "Loud"
+    ],
+    "correctIndex": 2,
+    "explanation": "Meticulous means showing great attention to detail; very careful."
+  },
+  {
+    "question": "Choose the word opposite in meaning to OPTIMISTIC.",
+    "options": [
+      "Hopeful",
+      "Happy",
+      "Pessimistic",
+      "Positive"
+    ],
+    "correctIndex": 2,
+    "explanation": "Optimistic means hopeful; pessimistic is the opposite."
+  },
+  {
+    "question": "Cold is to Ice as Hot is to:",
+    "options": [
+      "Water",
+      "Fire",
+      "Wind",
+      "Dust"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ice is cold; fire is hot."
+  },
+  {
+    "question": "Complete the sentence: She _____ the job offer immediately after the interview.",
+    "options": [
+      "Rejected",
+      "Accepted",
+      "Forgot",
+      "Avoided"
+    ],
+    "correctIndex": 1,
+    "explanation": "One would typically accept a desired job offer."
+  },
+  {
+    "question": "Choose the word most similar in meaning to NEGLIGENT.",
+    "options": [
+      "Careful",
+      "Attentive",
+      "Careless",
+      "Kind"
+    ],
+    "correctIndex": 2,
+    "explanation": "Negligent means failing to take proper care over something."
+  },
+  {
+    "question": "Choose the word opposite in meaning to PLENTIFUL.",
+    "options": [
+      "Many",
+      "Scarce",
+      "Abundant",
+      "Large"
+    ],
+    "correctIndex": 1,
+    "explanation": "Plentiful means existing in great quantities; scarce is the opposite."
+  },
+  {
+    "question": "Page is to Book as Leaf is to:",
+    "options": [
+      "Branch",
+      "Root",
+      "Tree",
+      "Seed"
+    ],
+    "correctIndex": 2,
+    "explanation": "A page is part of a book; a leaf is part of a tree."
+  },
+  {
+    "question": "Complete the sentence: The cat _____ through the open window into the garden.",
+    "options": [
+      "Walked",
+      "Leaped",
+      "Sat",
+      "Slept"
+    ],
+    "correctIndex": 1,
+    "explanation": "Leaped indicates a sudden movement often done by cats."
+  },
+  {
+    "question": "Choose the word most similar in meaning to OBSOLETE.",
+    "options": [
+      "Modern",
+      "New",
+      "Outdated",
+      "Useful"
+    ],
+    "correctIndex": 2,
+    "explanation": "Obsolete means no longer produced or used; out of date."
+  },
+  {
+    "question": "Choose the word opposite in meaning to QUARREL.",
+    "options": [
+      "Fight",
+      "Argue",
+      "Agree",
+      "Clash"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quarrel means to have a heated argument; agree is the opposite."
+  },
+  {
+    "question": "Moon is to Night as Sun is to:",
+    "options": [
+      "Morning",
+      "Evening",
+      "Day",
+      "Dawn"
+    ],
+    "correctIndex": 2,
+    "explanation": "The moon is visible at night; the sun is visible during the day."
+  },
+  {
+    "question": "Complete the sentence: Modern technology has _____ the way we communicate with each other.",
+    "options": [
+      "Stopped",
+      "Transformed",
+      "Hidden",
+      "Weakened"
+    ],
+    "correctIndex": 1,
+    "explanation": "Technology has significantly changed (transformed) communication."
+  },
+  {
+    "question": "Choose the word most similar in meaning to PERPLEXED.",
+    "options": [
+      "Clear",
+      "Sure",
+      "Confused",
+      "Calm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perplexed means completely baffled; very puzzled."
+  },
+  {
+    "question": "Choose the word opposite in meaning to ROUGH.",
+    "options": [
+      "Hard",
+      "Smooth",
+      "Strong",
+      "Coarse"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rough means having an uneven surface; smooth is the opposite."
+  },
+  {
+    "question": "Ring is to Finger as Necklace is to:",
+    "options": [
+      "Wrist",
+      "Ear",
+      "Neck",
+      "Waist"
+    ],
+    "correctIndex": 2,
+    "explanation": "A ring is worn on a finger; a necklace is worn on the neck."
+  },
+  {
+    "question": "Complete the sentence: Eating a balanced diet and exercising regularly are _____ for good health.",
+    "options": [
+      "Useless",
+      "Essential",
+      "Optional",
+      "Bad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Essential means absolutely necessary."
+  },
+  {
+    "question": "Choose the word most similar in meaning to PRUDENT.",
+    "options": [
+      "Rash",
+      "Careless",
+      "Wise",
+      "Fast"
+    ],
+    "correctIndex": 2,
+    "explanation": "Prudent means acting with or showing care and thought for the future; wise."
+  },
+  {
+    "question": "Choose the word opposite in meaning to STUBBORN.",
+    "options": [
+      "Firm",
+      "Obstinate",
+      "Flexible",
+      "Hard"
+    ],
+    "correctIndex": 2,
+    "explanation": "Stubborn means refusing to change one's mind; flexible is the opposite."
+  },
+  {
+    "question": "Chef is to Kitchen as Pilot is to:",
+    "options": [
+      "Cockpit",
+      "Bus",
+      "Train",
+      "Station"
+    ],
+    "correctIndex": 0,
+    "explanation": "A chef works in a kitchen; a pilot works in a cockpit."
+  },
+  {
+    "question": "Complete the sentence: The noise from the construction site was so loud it was nearly _____.",
+    "options": [
+      "Quiet",
+      "Soft",
+      "Deafening",
+      "Melodic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Deafening means so loud as to make it impossible to hear anything else."
+  },
+  {
+    "question": "Choose the word most similar in meaning to RESILIENT.",
+    "options": [
+      "Weak",
+      "Tough",
+      "Fragile",
+      "Slow"
+    ],
+    "correctIndex": 1,
+    "explanation": "Resilient means able to withstand or recover quickly from difficult conditions."
+  },
+  {
+    "question": "Choose the word opposite in meaning to THRIFTY.",
+    "options": [
+      "Frugal",
+      "Saving",
+      "Extravagant",
+      "Cheap"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thrifty means using money and resources carefully; extravagant is the opposite."
+  },
+  {
+    "question": "Wood is to Carpenter as Stone is to:",
+    "options": [
+      "Mason",
+      "Plumber",
+      "Electrician",
+      "Baker"
+    ],
+    "correctIndex": 0,
+    "explanation": "A carpenter works with wood; a mason works with stone."
+  },
+  {
+    "question": "Complete the sentence: I am extremely _____ for all the help you provided during the move.",
+    "options": [
+      "Angry",
+      "Grateful",
+      "Sorry",
+      "Upset"
+    ],
+    "correctIndex": 1,
+    "explanation": "Grateful means feeling or showing an appreciation of kindness."
+  },
+  {
+    "question": "Choose the word most similar in meaning to SCRUPULOUS.",
+    "options": [
+      "Dishonest",
+      "Ethical",
+      "Careless",
+      "Fast"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scrupulous means diligent, thorough, and extremely attentive to details; ethical."
+  },
+  {
+    "question": "Choose the word opposite in meaning to UNIQUE.",
+    "options": [
+      "Rare",
+      "Special",
+      "Common",
+      "Single"
+    ],
+    "correctIndex": 2,
+    "explanation": "Unique means being the only one of its kind; common is the opposite."
+  },
+  {
+    "question": "Up is to Down as Left is to:",
+    "options": [
+      "Across",
+      "Right",
+      "Straight",
+      "Back"
+    ],
+    "correctIndex": 1,
+    "explanation": "Up/Down are opposites; Left/Right are opposites."
+  },
+  {
+    "question": "Complete the sentence: Most flowers begin to _____ in the early spring as the weather warms.",
+    "options": [
+      "Die",
+      "Bloom",
+      "Fall",
+      "Close"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bloom means to produce flowers."
+  },
+  {
+    "question": "Choose the word most similar in meaning to TEDIOUS.",
+    "options": [
+      "Exciting",
+      "Fast",
+      "Boring",
+      "Short"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tedious means too long, slow, or dull; tiresome or boring."
+  },
+  {
+    "question": "Choose the word opposite in meaning to VIVID.",
+    "options": [
+      "Bright",
+      "Colorful",
+      "Dull",
+      "Clear"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vivid means producing powerful feelings or strong, clear images; dull is the opposite."
+  },
+  {
+    "question": "Scales are to Fish as Feathers are to:",
+    "options": [
+      "Mammal",
+      "Bird",
+      "Reptile",
+      "Insect"
+    ],
+    "correctIndex": 1,
+    "explanation": "A fish is covered in scales; a bird is covered in feathers."
+  },
+  {
+    "question": "Complete the sentence: Consistent practice is the ultimate key to achieving _____ in any skill.",
+    "options": [
+      "Failure",
+      "Mastery",
+      "Boredom",
+      "Loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mastery means comprehensive knowledge or skill in a subject."
+  },
+  {
+    "question": "Choose the word most similar in meaning to UNANIMOUS.",
+    "options": [
+      "Divided",
+      "Agreed",
+      "Unsure",
+      "Single"
+    ],
+    "correctIndex": 1,
+    "explanation": "Unanimous means fully in agreement."
+  },
+  {
+    "question": "Choose the word opposite in meaning to ZEALOUS.",
+    "options": [
+      "Eager",
+      "Passionate",
+      "Indifferent",
+      "Loud"
+    ],
+    "correctIndex": 2,
+    "explanation": "Zealous means showing great energy or enthusiasm; indifferent is the opposite."
+  }
+]
