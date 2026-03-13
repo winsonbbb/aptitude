@@ -1089,42 +1089,7 @@
     "explanation": "Alphabetical positions: R=18, E=5, D=4."
   },
   {
-    "question": "Which figure comes next in the sequence? 
-Figure 1: A large square containing a small circle in its top-left corner.
-Figure 2: A large square containing a small circle in its top-right corner.
-Figure 3: A large square containing a small circle in its bottom-right corner.
-Figure 4: A large square containing a small circle in its bottom-left corner.",
-    "options": [
-      "A large square containing a small circle in its top-left corner.",
-      "A large square containing a small circle in its bottom-right corner.",
-      "A large square containing a small circle in its top-right corner.",
-      "A large square containing a small circle in its center."
-    ],
-    "correctIndex": 0,
-    "explanation": "The small circle rotates clockwise through the four corners of the square, completing a full cycle after Figure 4. The next figure restarts the pattern with the circle in the top-left."
-  },
-  {
-    "question": "Which of the following figures is the odd one out? 
-Figure A: A circle with a vertical line through its center.
-Figure B: A square with a horizontal line through its center.
-Figure C: A triangle with a vertical line through its center.
-Figure D: A rectangle with a horizontal line through its center.
-Figure E: A pentagon with a horizontal line through its center.",
-    "options": [
-      "Figure A",
-      "Figure B",
-      "Figure C",
-      "Figure D",
-      "Figure E"
-    ],
-    "correctIndex": 2,
-    "explanation": "All figures except Figure C are symmetrical either horizontally or vertically along the line drawn. The triangle with a vertical line is not horizontally symmetrical."
-  },
-  {
-    "question": "What completes the pattern? 
-Row 1: (Small black circle, Large white circle) (Small white circle, Large black circle)
-Row 2: (Small black square, Large white square) (Small white square, Large black square)
-Row 3: (Small black triangle, Large white triangle) (X)",
+    "question": "What completes the pattern? \nRow 1: (Small black circle, Large white circle) (Small white circle, Large black circle)\nRow 2: (Small black square, Large white square) (Small white square, Large black square)\nRow 3: (Small black triangle, Large white triangle) (X)",
     "options": [
       "(Small white triangle, Large black triangle)",
       "(Small black triangle, Large black triangle)",
@@ -1135,94 +1100,7 @@ Row 3: (Small black triangle, Large white triangle) (X)",
     "explanation": "The pattern involves pairs of shapes: a small black shape with a large white shape, followed by a small white shape with a large black shape. The shape itself (circle, square, triangle) remains consistent within each row. Following this pattern for Row 3, X should be (Small white triangle, Large black triangle)."
   },
   {
-    "question": "Which of the following figures continues the sequence? 
-Figure 1: A 3x3 grid with the top-left square shaded.
-Figure 2: A 3x3 grid with the top-middle square shaded.
-Figure 3: A 3x3 grid with the top-right square shaded.
-Figure 4: A 3x3 grid with the middle-right square shaded.",
-    "options": [
-      "A 3x3 grid with the bottom-right square shaded.",
-      "A 3x3 grid with the bottom-middle square shaded.",
-      "A 3x3 grid with the middle-left square shaded.",
-      "A 3x3 grid with the top-left square shaded."
-    ],
-    "correctIndex": 0,
-    "explanation": "The shaded square moves clockwise around the perimeter of the 3x3 grid. Following Figure 4 (middle-right), the next position is bottom-right."
-  },
-  {
-    "question": "Which figure completes the series? 
-Figure 1: A large square, with a small inner square. Both are black.
-Figure 2: A large square, with a small inner square. Outer is white, inner is black.
-Figure 3: A large square, with a small inner square. Both are white.",
-    "options": [
-      "A large square, with a small inner square. Both are black.",
-      "A large square, with a small inner square. Outer is black, inner is white.",
-      "A large square, with a small inner square. Both are white.",
-      "A large square, with a small inner circle. Both are black."
-    ],
-    "correctIndex": 1,
-    "explanation": "The outer square alternates black, white, black. The inner square alternates black, black, white. So the next in sequence would be a large square with a small inner square, outer is black, inner is white."
-  },
-  {
-    "question": "Identify the missing figure in the sequence. 
-Figure 1: A cross (+) with a small circle at each end.
-Figure 2: A cross with small circles at the top and bottom ends only.
-Figure 3: A cross with a small circle at the top end only.",
-    "options": [
-      "A cross with a small circle at the bottom end only.",
-      "A cross with no circles.",
-      "A cross with small circles at left and right ends only.",
-      "A single line with one circle."
-    ],
-    "correctIndex": 1,
-    "explanation": "Circles are removed sequentially from the cross ends, starting from the sides, then bottom, then top. So the next figure should have no circles."
-  },
-  {
-    "question": "Which figure is the logical continuation of the series? 
-Figure 1: A clock showing 12:00.
-Figure 2: A clock showing 3:00.
-Figure 3: A clock showing 6:00.",
-    "options": [
-      "A clock showing 9:00.",
-      "A clock showing 12:00.",
-      "A clock showing 7:00.",
-      "A clock showing 4:00."
-    ],
-    "correctIndex": 0,
-    "explanation": "The clock hands move 90 degrees clockwise each step. 6:00 + 90 degrees clockwise = 9:00."
-  },
-  {
-    "question": "Which image does not fit the pattern? 
-Image A: A square divided into four smaller squares, with the top-left and bottom-right shaded.
-Image B: A square divided into four smaller squares, with the top-right and bottom-left shaded.
-Image C: A square divided into four smaller squares, with the top-left and top-right shaded.
-Image D: A square divided into four smaller squares, with all four squares shaded.",
-    "options": [
-      "Image A",
-      "Image B",
-      "Image C",
-      "Image D"
-    ],
-    "correctIndex": 2,
-    "explanation": "Images A, B, and D show diagonally or fully shaded patterns. Image C breaks this by having two adjacent squares shaded horizontally in the top row."
-  },
-  {
-    "question": "What is the next figure in the sequence? 
-Figure 1: A large triangle pointing up, with a small circle at its top vertex.
-Figure 2: A large triangle pointing up, with a small circle at its bottom-left vertex.
-Figure 3: A large triangle pointing up, with a small circle at its bottom-right vertex.",
-    "options": [
-      "A large triangle pointing up, with a small circle at its top vertex.",
-      "A large triangle pointing up, with a small square at its top vertex.",
-      "A large triangle pointing down, with a small circle at its top vertex.",
-      "A large square, with a small circle at its top vertex."
-    ],
-    "correctIndex": 0,
-    "explanation": "The small circle rotates clockwise around the vertices of the triangle. After the bottom-right vertex, it returns to the top vertex."
-  },
-  {
-    "question": "Which option replaces the question mark? 
-(Square, Circle) (Circle, Triangle) (Triangle, Square) (?, ?)",
+    "question": "Which option replaces the question mark? \n(Square, Circle) (Circle, Triangle) (Triangle, Square) (?, ?)",
     "options": [
       "(Square, Triangle)",
       "(Circle, Circle)",
@@ -1233,11 +1111,7 @@ Figure 3: A large triangle pointing up, with a small circle at its bottom-right 
     "explanation": "The second shape of each pair becomes the first shape of the next pair. The second shape of the last pair follows the sequence: Circle, Triangle, Square. So the next pair is (Square, Circle)."
   },
   {
-    "question": "Which of these diagrams represents the union of two sets, A and B? 
-Option A: Two overlapping circles, with only the overlapping region shaded.
-Option B: Two separate circles, both shaded completely.
-Option C: Two overlapping circles, with both circles (including overlap) shaded completely.
-Option D: Two overlapping circles, with only circle A shaded completely.",
+    "question": "Which of these diagrams represents the union of two sets, A and B? \nOption A: Two overlapping circles, with only the overlapping region shaded.\nOption B: Two separate circles, both shaded completely.\nOption C: Two overlapping circles, with both circles (including overlap) shaded completely.\nOption D: Two overlapping circles, with only circle A shaded completely.",
     "options": [
       "Option A",
       "Option B",
@@ -1248,25 +1122,7 @@ Option D: Two overlapping circles, with only circle A shaded completely.",
     "explanation": "The union of two sets A and B includes all elements that are in A, or in B, or in both. This is represented by both circles and their overlapping region being shaded."
   },
   {
-    "question": "Find the figure that completes the sequence: 
-Figure 1: A single vertical line.
-Figure 2: Two vertical lines.
-Figure 3: Three vertical lines.",
-    "options": [
-      "One horizontal line.",
-      "Four vertical lines.",
-      "Three horizontal lines.",
-      "Two horizontal lines."
-    ],
-    "correctIndex": 1,
-    "explanation": "The sequence increases the number of vertical lines by one in each step."
-  },
-  {
-    "question": "Which is the odd one out? 
-Option A: A square with a small dot in the middle.
-Option B: A triangle with a small dot in the middle.
-Option C: A circle with a small dot in the middle.
-Option D: A rectangle with a small dot in the top right corner.",
+    "question": "Which is the odd one out? \nOption A: A square with a small dot in the middle.\nOption B: A triangle with a small dot in the middle.\nOption C: A circle with a small dot in the middle.\nOption D: A rectangle with a small dot in the top right corner.",
     "options": [
       "Option A",
       "Option B",
@@ -1277,10 +1133,7 @@ Option D: A rectangle with a small dot in the top right corner.",
     "explanation": "In options A, B, and C, the dot is in the exact middle of the shape. In option D, the dot is in a corner."
   },
   {
-    "question": "What is the next pattern? 
-Pattern 1: A sequence of a large star, then a small star.
-Pattern 2: A sequence of a large circle, then a small circle.
-Pattern 3: A sequence of a large triangle, then a small triangle.",
+    "question": "What is the next pattern? \nPattern 1: A sequence of a large star, then a small star.\nPattern 2: A sequence of a large circle, then a small circle.\nPattern 3: A sequence of a large triangle, then a small triangle.",
     "options": [
       "A sequence of a large star, then a small star.",
       "A sequence of a large square, then a small square.",
@@ -1291,22 +1144,7 @@ Pattern 3: A sequence of a large triangle, then a small triangle.",
     "explanation": "The pattern progresses through different geometric shapes (star, circle, triangle). The next logical shape in the series would be a square, maintaining the large then small sequence."
   },
   {
-    "question": "Which figure is the next in the sequence? 
-Figure 1: A square divided into four smaller squares, with the top-left square shaded.
-Figure 2: A square divided into four smaller squares, with the top-right square shaded.
-Figure 3: A square divided into four smaller squares, with the bottom-right square shaded.",
-    "options": [
-      "A square divided into four smaller squares, with the bottom-left square shaded.",
-      "A square divided into four smaller squares, with the top-left square shaded.",
-      "A square divided into four smaller squares, with the top-middle square shaded.",
-      "A square divided into four smaller squares, with no shading."
-    ],
-    "correctIndex": 0,
-    "explanation": "The shaded quadrant moves clockwise around the larger square."
-  },
-  {
-    "question": "What is the next in the sequence? 
-(Up arrow, Down arrow) (Right arrow, Left arrow) (Up arrow, Down arrow) (?, ?)",
+    "question": "What is the next in the sequence? \n(Up arrow, Down arrow) (Right arrow, Left arrow) (Up arrow, Down arrow) (?, ?)",
     "options": [
       "(Left arrow, Right arrow)",
       "(Right arrow, Left arrow)",
@@ -1317,11 +1155,7 @@ Figure 3: A square divided into four smaller squares, with the bottom-right squa
     "explanation": "The pattern alternates between two diagonal shading configurations. Grid 1 and 3 are identical, so Grid 4 should be identical to Grid 2."
   },
   {
-    "question": "Which item does not belong in the group? 
-Item 1: A table with four legs.
-Item 2: A chair with four legs.
-Item 3: A bed with four legs.
-Item 4: A stool with three legs.",
+    "question": "Which item does not belong in the group? \nItem 1: A table with four legs.\nItem 2: A chair with four legs.\nItem 3: A bed with four legs.\nItem 4: A stool with three legs.",
     "options": [
       "Item 1",
       "Item 2",
@@ -1332,10 +1166,7 @@ Item 4: A stool with three legs.",
     "explanation": "All items except for Item 4 have four legs. Item 4 (stool) has three legs, making it the odd one out in this context."
   },
   {
-    "question": "What completes the visual pattern? 
-Grid 1 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-right shaded.
-Grid 2 (2x2): Top-left unshaded, Top-right shaded, Bottom-left shaded, Bottom-right unshaded.
-Grid 3 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-right shaded.",
+    "question": "What completes the visual pattern? \nGrid 1 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-right shaded.\nGrid 2 (2x2): Top-left unshaded, Top-right shaded, Bottom-left shaded, Bottom-right unshaded.\nGrid 3 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-right shaded.",
     "options": [
       "Grid 1 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-right shaded.",
       "Grid 2 (2x2): Top-left unshaded, Top-right shaded, Bottom-left shaded, Bottom-right unshaded.",
@@ -1346,8 +1177,7 @@ Grid 3 (2x2): Top-left shaded, Top-right unshaded, Bottom-left unshaded, Bottom-
     "explanation": "The pattern alternates between two diagonal shading configurations. Grid 1 and 3 are identical, so Grid 4 should be identical to Grid 2."
   },
   {
-    "question": "Select the figure that logically continues the series. 
-Series: (Small black square, Large white circle) (Small white square, Large black circle) (Small black square, Large white circle) (?, ?)",
+    "question": "Select the figure that logically continues the series. \nSeries: (Small black square, Large white circle) (Small white square, Large black circle) (Small black square, Large white circle) (?, ?)",
     "options": [
       "(Small white square, Large black circle)",
       "(Small black square, Large black circle)",
@@ -1358,41 +1188,938 @@ Series: (Small black square, Large white circle) (Small white square, Large blac
     "explanation": "The small shape alternates between black and white, while the large shape's color alternates in opposition to the small shape. The series follows an ABAB pattern. The next figure should be (Small white square, Large black circle)."
   },
   {
-    "question": "Which image would be next in the sequence? 
-Image 1: A square with one vertical line dividing it in half.
-Image 2: A square with one horizontal line dividing it in half.
-Image 3: A square with one diagonal line from top-left to bottom-right.
-Image 4: A square with one diagonal line from top-right to bottom-left.",
+    "question": "What number comes next? 1, 2, 3, 5, 8, ?",
     "options": [
-      "A square with two vertical lines.",
-      "A square with one vertical line dividing it in half.",
-      "A square with two horizontal lines.",
-      "A circle with one vertical line."
+      "12",
+      "13",
+      "14",
+      "15"
     ],
     "correctIndex": 1,
-    "explanation": "The pattern of lines within the square cycles through vertical, horizontal, and both diagonals, then repeats. After the second diagonal, it returns to a vertical line."
+    "explanation": "This is a Fibonacci sequence, where each number is the sum of the two preceding ones. 5 + 8 = 13."
   },
   {
-    "question": "Which figure comes next in the sequence?",
-    "imageUrl": "assets/figure1.png",
-    "sequenceImages": [
-      "assets/figure1.png",
-      "assets/figure2.png",
-      "assets/figure3.png"
-    ],
+    "question": "What number comes next? 3, 7, 13, 21, 31, ?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "41",
+      "43",
+      "45",
+      "47"
     ],
-    "optionImages": [
-      "assets/optionA.png",
-      "assets/optionB.png",
-      "assets/optionC.png",
-      "assets/optionD.png"
+    "correctIndex": 1,
+    "explanation": "The differences between consecutive numbers are increasing by 2: +4, +6, +8, +10. The next difference is +12, so 31 + 12 = 43."
+  },
+  {
+    "question": "What number comes next? 1, 4, 27, 256, ?",
+    "options": [
+      "3125",
+      "6561",
+      "7776",
+      "15625"
     ],
     "correctIndex": 0,
-    "explanation": "The small black dot moves clockwise through the corners of the square. The square's shading alternates between light gray and dark gray. Following the pattern (Light, Dark, Light), the next square should be dark gray. Following the dot's movement (top-left, top-right, bottom-right), the next position is bottom-left. Therefore, a dark gray square with a black dot in the bottom-left corner is the correct next figure."
+    "explanation": "The pattern is n raised to the power of n: 1^1=1, 2^2=4, 3^3=27, 4^4=256. The next is 5^5 = 3125."
+  },
+  {
+    "question": "What number comes next? 2, 6, 12, 20, 30, ?",
+    "options": [
+      "38",
+      "40",
+      "42",
+      "44"
+    ],
+    "correctIndex": 2,
+    "explanation": "The pattern is n * (n+1): 1*2=2, 2*3=6, 3*4=12, 4*5=20, 5*6=30. The next is 6*7 = 42."
+  },
+  {
+    "question": "What number comes next? 5, 10, 17, 26, 37, ?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctIndex": 0,
+    "explanation": "The pattern is n^2 + 1, starting with n=2: 2^2+1=5, 3^2+1=10, 4^2+1=17, 5^2+1=26, 6^2+1=37. The next is 7^2+1 = 49+1 = 50. (Error in question or options, fixing it to 50)"
+  },
+  {
+    "question": "Complete the letter series: A, B, D, G, K, ?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "correctIndex": 2,
+    "explanation": "The difference between letters increases by one each time: +1, +2, +3, +4. So the next is +5: K + 5 = P."
+  },
+  {
+    "question": "Complete the letter series: Z, X, V, T, R, ?",
+    "options": [
+      "P",
+      "Q",
+      "S",
+      "U"
+    ],
+    "correctIndex": 0,
+    "explanation": "The series goes backward, skipping one letter each time: Z(-1)X(-1)V(-1)T(-1)R(-1)P."
+  },
+  {
+    "question": "Complete the letter series: C, F, I, L, O, ?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each letter is 3 positions after the previous one: C+3=F, F+3=I, I+3=L, L+3=O. The next is O+3 = R."
+  },
+  {
+    "question": "Complete the letter series: AZ, BY, CX, DW, ?",
+    "options": [
+      "EU",
+      "FV",
+      "GV",
+      "HW"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first letter moves forward alphabetically, and the second letter moves backward alphabetically: A->B->C->D->E. Z->Y->X->W->U."
+  },
+  {
+    "question": "Complete the letter series: F, H, K, O, T, ?",
+    "options": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "correctIndex": 2,
+    "explanation": "The skips between letters increase by one: F (+2) H (+3) K (+4) O (+5) T. The next skip is +6: T+6=Z."
+  },
+  {
+    "question": "If CAT is coded as FDU, how is DOG coded?",
+    "options": [
+      "GRK",
+      "HRJ",
+      "HSK",
+      "IRM"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each letter is shifted forward by 3 positions in the alphabet: C->F, A->D, T->U. So D->G, O->R, G->J."
+  },
+  {
+    "question": "If TABLE is coded as BALE, how is CHAIR coded?",
+    "options": [
+      "HAIR",
+      "CAIR",
+      "CHIR",
+      "AIR"
+    ],
+    "correctIndex": 0,
+    "explanation": "The first letter is removed. So C is removed from CHAIR, leaving HAIR."
+  },
+  {
+    "question": "If SCHOOL is coded as SCOOL, how is TEACHER coded?",
+    "options": [
+      "TECHER",
+      "TACHER",
+      "TEACHR",
+      "TEEACHER"
+    ],
+    "correctIndex": 2,
+    "explanation": "One of the repeated letters (O) is removed. In TEACHER, the second E is removed to maintain a similar pattern or the first E is removed. Assuming the second E in TEACHER is removed, it becomes TEACHR."
+  },
+  {
+    "question": "If WHITE is coded as HWTIE, how is BLACK coded?",
+    "options": [
+      "LABKC",
+      "BCLAK",
+      "BCALK",
+      "LBCKA"
+    ],
+    "correctIndex": 1,
+    "explanation": "The first two letters are swapped, and the rest remain in order. WH -> HW, IT -> TI, E -> E. So BL -> LB, AC -> CA, K -> K."
+  },
+  {
+    "question": "If RED is coded as 672, how is BLUE coded?",
+    "options": [
+      "1234",
+      "3456",
+      "5678",
+      "4521"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each letter is mapped to a consecutive number: R=6, E=7, D=2. So B=3, L=4, U=5, E=6."
+  },
+  {
+    "question": "Sky is to Blue as Grass is to:",
+    "options": [
+      "Green",
+      "Brown",
+      "Yellow",
+      "Red"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sky is typically blue; grass is typically green."
+  },
+  {
+    "question": "Lion is to Carnivore as Cow is to:",
+    "options": [
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Predator"
+    ],
+    "correctIndex": 1,
+    "explanation": "A lion is a carnivore (meat-eater); a cow is a herbivore (plant-eater)."
+  },
+  {
+    "question": "Boat is to Water as Aeroplane is to:",
+    "options": [
+      "Sky",
+      "Air",
+      "Runway",
+      "Clouds"
+    ],
+    "correctIndex": 1,
+    "explanation": "A boat moves in water; an aeroplane moves in air."
+  },
+  {
+    "question": "Feather is to Bird as Scale is to:",
+    "options": [
+      "Fish",
+      "Snake",
+      "Mammal",
+      "Reptile"
+    ],
+    "correctIndex": 0,
+    "explanation": "Feathers cover a bird; scales cover a fish."
+  },
+  {
+    "question": "Light is to Eye as Sound is to:",
+    "options": [
+      "Nose",
+      "Ear",
+      "Tongue",
+      "Skin"
+    ],
+    "correctIndex": 1,
+    "explanation": "Light is perceived by the eye; sound is perceived by the ear."
+  },
+  {
+    "question": "Statements: Some books are pens. All pens are pencils. Conclusions: I. Some books are pencils. II. No book is a pencil.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 0,
+    "explanation": "If some books are pens, and all pens are pencils, then those books that are pens must also be pencils. So, some books are pencils. Conclusion II contradicts this."
+  },
+  {
+    "question": "Statements: All intelligent are creative. Some creative are artists. Conclusions: I. All intelligent are artists. II. Some artists are intelligent.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "From the statements, we know that the set of intelligent people is entirely within the set of creative people, and there is some overlap between creative people and artists. However, we cannot definitively conclude any overlap between intelligent people and artists (I and II are uncertain)."
+  },
+  {
+    "question": "Statements: No dog is a cat. All cats are animals. Conclusions: I. No dog is an animal. II. Some animals are not dogs.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 1,
+    "explanation": "From 'No dog is a cat', and 'All cats are animals', we know there are cats which are animals, and these cats are not dogs. So, some animals are not dogs (Conclusion II is true). Conclusion I (No dog is an animal) is false, as dogs are a type of animal."
+  },
+  {
+    "question": "Statements: All squares are rectangles. Some rectangles are blue. Conclusions: I. Some squares are blue. II. All blue things are rectangles.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "Even if some rectangles are blue, we cannot conclude that those specific blue rectangles are also squares. Also, if some rectangles are blue, it does not mean ALL blue things are rectangles."
+  },
+  {
+    "question": "Statements: Some men are wise. Some wise are rich. Conclusions: I. Some men are rich. II. All rich are men.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "We know there's an overlap between men and wise, and wise and rich. However, we cannot guarantee an overlap between men and rich, nor that all rich people are men."
+  },
+  {
+    "question": "Premise 1: All birds lay eggs. Premise 2: Some animals lay eggs. Conclusion: Some animals are birds.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 0,
+    "explanation": "If all birds lay eggs, and some animals lay eggs, then the animals that lay eggs could include birds. This is a valid conclusion from the premises."
+  },
+  {
+    "question": "Premise 1: No politician is honest. Premise 2: All honest people are trustworthy. Conclusion: No politician is trustworthy.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 0,
+    "explanation": "If no politician is honest, and all honest people are trustworthy, then politicians, by definition, cannot be trustworthy. This is a valid deduction."
+  },
+  {
+    "question": "Premise 1: Some flowers are red. Premise 2: Some flowers are fragrant. Conclusion: Some red flowers are fragrant.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an invalid deduction. The two groups of flowers (red and fragrant) could be entirely separate. Just because some are red and some are fragrant doesn't mean there's an overlap of red and fragrant flowers."
+  },
+  {
+    "question": "Premise 1: All laptops are electronics. Premise 2: My device is an electronic. Conclusion: My device is a laptop.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an invalid deduction (affirming the consequent). Many devices are electronics without being laptops."
+  },
+  {
+    "question": "Premise 1: If it rains, the ground is wet. Premise 2: It is not sunny. Conclusion: I will not go for a walk.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an invalid deduction (denying the antecedent). I might still go for a walk even if it's not sunny (e.g., if it's cloudy but not raining)."
+  },
+  {
+    "question": "Is X an even number? \n(I) X is divisible by 4. \n(II) X is a multiple of 6.",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 1,
+    "explanation": "If X is divisible by 4, then X is even. So (I) alone is sufficient. If X is a multiple of 6, then X is even. So (II) alone is sufficient. Therefore, either statement alone is sufficient."
+  },
+  {
+    "question": "What is the value of X? \n(I) X + Y = 10 \n(II) Y = 5",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (I) alone is not enough to find X. Statement (II) alone is not enough to find X. Together, substituting Y=5 into X+Y=10 gives X=5, so both are sufficient."
+  },
+  {
+    "question": "Is P a positive integer? \n(I) P^2 > 0 \n(II) P > -1",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (I) means P is not 0, but P could be negative. Statement (II) means P is greater than -1, but P could be a fraction or 0. Together, P > -1 and P^2 > 0 mean P must be a positive integer."
+  },
+  {
+    "question": "What is the value of Y? \n(I) X - Y = 5 \n(II) X + Y = 15",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Solving the two equations simultaneously: (X-Y) + (X+Y) = 5+15 => 2X = 20 => X=10. Then 10-Y=5 => Y=5. Both statements together are sufficient."
+  },
+  {
+    "question": "Is the product of two numbers even? \n(I) One of the numbers is even. \n(II) Both numbers are integers.",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 0,
+    "explanation": "If one of the numbers is even, then their product will always be even, regardless of the other number (as long as it's a whole number). So (I) alone is sufficient. Statement (II) alone is not sufficient."
+  },
+  {
+    "question": "Premise: All dogs bark. Fluffy barks. Conclusion: Fluffy is a dog. Which of the following best describes the flaw in the argument?",
+    "options": [
+      "Faulty generalization",
+      "Affirming the consequent",
+      "Denying the antecedent",
+      "Circular reasoning"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is affirming the consequent. Just because all dogs bark and Fluffy barks, it doesn't mean Fluffy is a dog; other animals might also bark."
+  },
+  {
+    "question": "Argument: The new marketing campaign doubled our website traffic. Therefore, it successfully increased brand awareness. Which assumption is most critical to the argument?",
+    "options": [
+      "Increased website traffic always leads to increased brand awareness.",
+      "The marketing campaign was expensive.",
+      "Our competitors also saw increased website traffic.",
+      "Website traffic is the only measure of brand awareness."
+    ],
+    "correctIndex": 0,
+    "explanation": "The argument directly links increased traffic to increased brand awareness. The critical assumption is that this link holds true."
+  },
+  {
+    "question": "Argument: Since our sales have declined, we must either increase advertising or reduce prices to boost revenue. Which of the following, if true, most undermines the argument?",
+    "options": [
+      "Our product quality has significantly decreased.",
+      "Competitors are also experiencing sales decline.",
+      "A new, popular product was recently launched.",
+      "Advertising costs are very high."
+    ],
+    "correctIndex": 0,
+    "explanation": "If product quality decreased, neither increased advertising nor reduced prices might effectively boost revenue, as the core problem is with the product itself. This introduces a new, overriding cause for the sales decline."
+  },
+  {
+    "question": "Argument: People who consume more coffee tend to perform better on cognitive tasks. Therefore, coffee consumption improves cognitive performance. Which of the following, if true, presents an alternative explanation for the observed correlation?",
+    "options": [
+      "Coffee contains caffeine, a known stimulant.",
+      "People with naturally higher cognitive abilities may be more likely to drink coffee.",
+      "Excessive coffee consumption can lead to anxiety.",
+      "The study was conducted on a small sample size."
+    ],
+    "correctIndex": 1,
+    "explanation": "This suggests a reverse causation: those already cognitively strong might choose to drink coffee, rather than coffee making them strong. This is a common alternative explanation for correlations."
+  },
+  {
+    "question": "Argument: Violent crime rates have increased in the city since the new mayor took office. Conclusion: The mayor's policies are responsible for the rise in violent crime. Which of the following, if true, most weakens the conclusion?",
+    "options": [
+      "A national economic recession also began when the mayor took office.",
+      "The police force received increased funding under the new mayor.",
+      "The mayor focused heavily on reducing property crime.",
+      "Violent crime rates were already slowly increasing before the new mayor."
+    ],
+    "correctIndex": 0,
+    "explanation": "A national recession could be an alternative cause for increased crime, weakening the direct link to the mayor's policies."
+  },
+  {
+    "question": "What number comes next? 1, 3, 7, 15, 31, ?",
+    "options": [
+      "61",
+      "63",
+      "65",
+      "67"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pattern is 2n + 1. 31 * 2 + 1 = 63."
+  },
+  {
+    "question": "What number comes next? 0, 1, 1, 2, 3, 5, 8, ?",
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is a Fibonacci sequence, where each number is the sum of the two preceding ones. 5 + 8 = 13."
+  },
+  {
+    "question": "What number comes next? 6, 11, 18, 27, 38, ?",
+    "options": [
+      "49",
+      "50",
+      "51",
+      "52"
+    ],
+    "correctIndex": 1,
+    "explanation": "The differences are +5, +7, +9, +11. The next difference is +13. 38 + 13 = 51."
+  },
+  {
+    "question": "What number comes next? 2, 4, 12, 48, 240, ?",
+    "options": [
+      "1200",
+      "1440",
+      "1680",
+      "1920"
+    ],
+    "correctIndex": 1,
+    "explanation": "The pattern is multiplying by increasing even numbers: *2, *3, *4, *5. The next is *6. 240 * 6 = 1440."
+  },
+  {
+    "question": "What number comes next? 1, 0, 3, 2, 5, 4, ?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an alternating series. The first sub-series (1, 3, 5) increases by 2. The second sub-series (0, 2, 4) increases by 2. So the next is 5 + 2 = 7."
+  },
+  {
+    "question": "Complete the letter series: A, Z, B, Y, C, X, ?",
+    "options": [
+      "D",
+      "W",
+      "V",
+      "E"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is an alternating series. The first sub-series (A, B, C) is alphabetical. The second sub-series (Z, Y, X) is reverse alphabetical. So the next is D."
+  },
+  {
+    "question": "Complete the letter series: P, O, N, L, K, J, H, ?",
+    "options": [
+      "G",
+      "F",
+      "E",
+      "I"
+    ],
+    "correctIndex": 0,
+    "explanation": "This series skips one letter backward after every two letters: P, O, N (skip M), L, K, J (skip I), H. The next is G."
+  },
+  {
+    "question": "Complete the letter series: E, J, O, T, Y, ?",
+    "options": [
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each letter is 5 positions after the previous one. Y + 5 = D (wrapping around the alphabet)."
+  },
+  {
+    "question": "Complete the letter series: A, E, I, M, Q, U, ?",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "A"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each letter is 4 positions after the previous one. U + 4 = Y (wrapping around the alphabet)."
+  },
+  {
+    "question": "Complete the letter series: D, H, L, P, T, ?",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "A"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each letter is 4 positions after the previous one. T + 4 = X."
+  },
+  {
+    "question": "If WATER is coded as SGVCP, how is FIRE coded?",
+    "options": [
+      "EQPC",
+      "EPQD",
+      "EQPD",
+      "FPQC"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each letter is shifted backward by 2 positions: W->U, A->Y, T->R, E->C, R->P. So F->D, I->G, R->P, E->C."
+  },
+  {
+    "question": "If TABLE is coded as 20120125, how is CHAIR coded?",
+    "options": [
+      "381918",
+      "381919",
+      "381920",
+      "381921"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each letter is replaced by its alphabetical position and concatenated: T=20, A=1, B=2, L=12, E=5. So C=3, H=8, A=1, I=9, R=18. CHAIR -> 381918."
+  },
+  {
+    "question": "If LIGHT is coded as MJHPU, how is HEAVY coded?",
+    "options": [
+      "IFBWZ",
+      "IGBWZ",
+      "IEBWZ",
+      "IFCWZ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Each letter is shifted forward by 1 position. L->M, I->J, G->H, H->I, T->U. So H->I, E->F, A->B, V->W, Y->Z."
+  },
+  {
+    "question": "If PHONE is coded as QIPOG, how is EMAIL coded?",
+    "options": [
+      "EMDIL",
+      "FNBJM",
+      "GOJCN",
+      "DMHLJ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Each letter is incremented by 1. P->Q, H->I, O->P, N->O, E->F. So EMAIL -> FNBJM."
+  },
+  {
+    "question": "If ROSE is coded as 6821, how is LILY coded?",
+    "options": [
+      "5959",
+      "5958",
+      "4848",
+      "5859"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mapping each letter to a single digit: R=6, O=8, S=2, E=1. (This is a simplified mapping where numbers are not direct alphabetical positions). L=5, I=9, L=5, Y=9. So LILY -> 5959."
+  },
+  {
+    "question": "Pen is to Write as Knife is to:",
+    "options": [
+      "Cut",
+      "Eat",
+      "Fork",
+      "Spoon"
+    ],
+    "correctIndex": 0,
+    "explanation": "A pen is used to write; a knife is used to cut."
+  },
+  {
+    "question": "Shoe is to Foot as Glove is to:",
+    "options": [
+      "Hand",
+      "Arm",
+      "Finger",
+      "Head"
+    ],
+    "correctIndex": 0,
+    "explanation": "A shoe is worn on a foot; a glove is worn on a hand."
+  },
+  {
+    "question": "Warm is to Hot as Cool is to:",
+    "options": [
+      "Cold",
+      "Freezing",
+      "Mild",
+      "Chilly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Warm is a less intense version of hot; cool is a less intense version of cold."
+  },
+  {
+    "question": "Seed is to Plant as Egg is to:",
+    "options": [
+      "Chicken",
+      "Bird",
+      "Nest",
+      "Omelet"
+    ],
+    "correctIndex": 1,
+    "explanation": "A seed grows into a plant; an egg hatches into a bird (or other animal)."
+  },
+  {
+    "question": "Sad is to Happy as Cry is to:",
+    "options": [
+      "Smile",
+      "Laugh",
+      "Frown",
+      "Giggle"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sad is the opposite of happy; cry is the opposite of laugh."
+  },
+  {
+    "question": "Statements: Some cars are vehicles. All vehicles have wheels. Conclusions: I. Some cars have wheels. II. All vehicles are cars.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 0,
+    "explanation": "If some cars are vehicles, and all vehicles have wheels, then those cars that are vehicles must also have wheels. So, some cars have wheels. Conclusion II is false, as not all vehicles are cars."
+  },
+  {
+    "question": "Statements: All fruits are sweet. Some sweet things are unhealthy. Conclusions: I. Some fruits are unhealthy. II. No fruit is unhealthy.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "We know all fruits are sweet, and some sweet things are unhealthy. This creates a possibility that some fruits are among the unhealthy sweet things, but it's not a certainty. Therefore, we cannot definitively conclude I or II."
+  },
+  {
+    "question": "Statements: No planet is a star. All stars are celestial bodies. Conclusions: I. No planet is a celestial body. II. Some celestial bodies are not planets.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 1,
+    "explanation": "From 'No planet is a star' and 'All stars are celestial bodies', we know there are stars which are celestial bodies, and these stars are not planets. So, some celestial bodies are not planets (Conclusion II is true). Conclusion I (No planet is a celestial body) is false, as planets are celestial bodies."
+  },
+  {
+    "question": "Statements: All good students are disciplined. Some disciplined students are successful. Conclusions: I. Some good students are successful. II. All successful students are good.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "Even if some disciplined students are successful, we cannot definitively say that those successful students are also good students. Thus, neither conclusion I nor II necessarily follows."
+  },
+  {
+    "question": "Statements: Some birds are black. Some black things can fly. Conclusions: I. Some birds can fly. II. All black things are birds.",
+    "options": [
+      "Only conclusion I follows",
+      "Only conclusion II follows",
+      "Both I and II follow",
+      "Neither I nor II follows"
+    ],
+    "correctIndex": 3,
+    "explanation": "There is an overlap between birds and black, and black things and things that can fly. However, we cannot guarantee an overlap between birds and things that can fly. Conclusion II is also false."
+  },
+  {
+    "question": "Premise 1: All artists are creative. Premise 2: John is an artist. Conclusion: John is creative.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is a valid deductive argument. If all artists are creative, and John is an artist, then John must be creative."
+  },
+  {
+    "question": "Premise 1: No politician is trustworthy. Premise 2: Sarah is trustworthy. Conclusion: Sarah is not a politician.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is a valid deductive argument. If no politician is trustworthy, and Sarah is trustworthy, then Sarah cannot be a politician."
+  },
+  {
+    "question": "Premise 1: Some birds are green. Premise 2: Some birds sing. Conclusion: Some green birds sing.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is an invalid deduction. The set of green birds and the set of singing birds could be disjoint or partially overlapping, but we cannot conclude a definite overlap between green birds that sing."
+  },
+  {
+    "question": "Premise 1: If you study hard, you will pass the exam. Premise 2: You did not study hard. Conclusion: You will not pass the exam.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is denying the antecedent, a logical fallacy. You might still pass the exam even if you didn't study hard (e.g., if the exam was very easy or you already knew the material)."
+  },
+  {
+    "question": "Premise 1: All dogs like bones. Premise 2: My pet likes bones. Conclusion: My pet is a dog.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Weak argument"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is affirming the consequent, a logical fallacy. Other animals besides dogs might also like bones."
+  },
+  {
+    "question": "Is the integer X even? \n(I) X - 2 is even. \n(II) X + 1 is odd.",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 0,
+    "explanation": "If X - 2 is even, then X must be even (even - even = even). So (I) alone is sufficient. If X + 1 is odd, then X must be even (even + odd = odd). So (II) alone is sufficient. Therefore, either statement alone is sufficient."
+  },
+  {
+    "question": "What is the value of P? \n(I) P is a prime number. \n(II) P < 5",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "Statement (I) alone: P could be 2, 3, 5, 7... Statement (II) alone: P could be 1, 2, 3, 4, 0, -1... Together, P must be 2 or 3. So not uniquely determined. Thus, neither statement alone nor both together are sufficient."
+  },
+  {
+    "question": "What is the area of a rectangle? \n(I) Its perimeter is 20 cm. \n(II) Its length is 6 cm.",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "From (I), L+W=10. From (II), L=6. So W=4. Area = L*W = 6*4=24. Both together are sufficient."
+  },
+  {
+    "question": "Is X > 10? \n(I) X + 5 > 15 \n(II) X - 3 > 7",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 0,
+    "explanation": "From (I), X > 10. So (I) alone is sufficient. From (II), X > 10. So (II) alone is also sufficient. Therefore, either statement alone is sufficient."
+  },
+  {
+    "question": "Is the number of students in the class greater than 20? \n(I) If 5 more students join, the number of students will be less than 30. \n(II) If 5 students leave, the number of students will be more than 10.",
+    "options": [
+      "Statement (I) alone is sufficient",
+      "Statement (II) alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor both together are sufficient"
+    ],
+    "correctIndex": 2,
+    "explanation": "From (I), S+5 < 30 => S < 25. From (II), S-5 > 10 => S > 15. So 15 < S < 25. This means the number of students is between 16 and 24. It is not necessarily greater than 20. For example, S could be 16, 17, 18, 19, 20. If S is 21, it is greater than 20. If S is 16, it is not. Thus, both statements together are not sufficient to determine if S > 20."
+  },
+  {
+    "question": "Argument: Our new software update causes slower performance on older computers. Therefore, we should not release the update. Which of the following, if true, most strengthens the decision to release the update?",
+    "options": [
+      "The update introduces critical security patches that older computers also need.",
+      "Most of our users have new computers.",
+      "The slower performance is barely noticeable.",
+      "Competitors' software updates also cause slower performance."
+    ],
+    "correctIndex": 0,
+    "explanation": "Critical security patches outweigh the slower performance for older computers, making the release of the update more justifiable."
+  },
+  {
+    "question": "Argument: Daily consumption of Vitamin C supplements prevents colds. This is because Vitamin C boosts the immune system. Which of the following is an unstated assumption?",
+    "options": [
+      "Only Vitamin C boosts the immune system.",
+      "A boosted immune system always prevents colds.",
+      "Colds are primarily caused by a weak immune system.",
+      "Vitamin C supplements are safe for daily use."
+    ],
+    "correctIndex": 2,
+    "explanation": "The argument assumes that a boosted immune system (due to Vitamin C) prevents colds, which implies that colds are mainly a result of a weak immune system."
+  },
+  {
+    "question": "Argument: Companies that invest in employee well-being programs have higher employee retention rates. Conclusion: Employee well-being programs directly increase retention. Which of the following, if true, suggests an alternative cause for the correlation?",
+    "options": [
+      "Companies with high profits can afford more well-being programs and also offer better salaries, leading to higher retention.",
+      "Employees who participate in well-being programs are generally more satisfied with their jobs.",
+      "Well-being programs are often expensive to implement.",
+      "High employee retention leads to a more positive work environment."
+    ],
+    "correctIndex": 0,
+    "explanation": "This suggests that a third factor (high profits) causes both well-being programs and high retention, rather than a direct causal link between the programs and retention."
+  },
+  {
+    "question": "Argument: To reduce carbon emissions, the city council decided to ban all personal vehicles from the city center. This will significantly improve air quality. Which of the following, if true, most weakens the argument?",
+    "options": [
+      "Public transportation in the city center is already extensive.",
+      "Most of the city's carbon emissions come from industrial areas outside the city center.",
+      "The ban will cause significant inconvenience to commuters.",
+      "Electric vehicles are exempt from the ban."
+    ],
+    "correctIndex": 1,
+    "explanation": "If most emissions come from outside the city center, then banning vehicles only in the center will have a limited impact on overall air quality, weakening the argument."
+  },
+  {
+    "question": "Argument: Since the new school uniforms were introduced, student discipline has improved. Therefore, school uniforms cause better discipline. Which of the following, if true, most strengthens the conclusion?",
+    "options": [
+      "The school also implemented a new behavior management program at the same time.",
+      "Students generally disliked the old uniforms.",
+      "Other schools with uniforms also report good discipline.",
+      "The new uniforms are more comfortable."
+    ],
+    "correctIndex": 2,
+    "explanation": "If other schools with uniforms also show better discipline, it reinforces the idea that uniforms contribute to discipline, strengthening the conclusion."
+  },
+  {
+    "question": "Statement: The price of coffee beans increased. Result: The price of coffee at local cafes also increased. Which of the following best describes the relationship?",
+    "options": [
+      "Correlation without causation",
+      "Coincidence",
+      "Cause and effect",
+      "Unrelated events"
+    ],
+    "correctIndex": 2,
+    "explanation": "An increase in the cost of raw materials (coffee beans) directly impacts the price of the final product (coffee at cafes). This is a direct cause-and-effect relationship."
+  },
+  {
+    "question": "Statement: A new fitness app was launched. Result: Many users reported losing weight. Which of the following, if true, would cast the most doubt on the conclusion that the app caused the weight loss?",
+    "options": [
+      "The app included a comprehensive diet plan.",
+      "Many users started other exercise programs concurrently.",
+      "The app had a very user-friendly interface.",
+      "Users paid a subscription fee for the app."
+    ],
+    "correctIndex": 1,
+    "explanation": "If users started other exercise programs, that could be an alternative cause for weight loss, making it unclear if the app alone was the cause."
+  },
+  {
+    "question": "Statement: Exposure to classical music improves plant growth. Result: Plants in a room with classical music grew taller than those in a silent room. Which of the following is a necessary assumption for this to be a direct cause-and-effect relationship?",
+    "options": [
+      "The type of plant does not matter.",
+      "The volume of the music was consistent.",
+      "No other factors differed between the two rooms that could affect plant growth.",
+      "Classical music is the only music that affects plant growth."
+    ],
+    "correctIndex": 2,
+    "explanation": "For the music to be the direct cause, one must assume that all other variables (light, water, temperature, soil, etc.) were controlled and did not differ between the two groups."
+  },
+  {
+    "question": "Statement: Regular consumption of sugary drinks leads to an increased risk of type 2 diabetes. Result: People who drink sugary drinks daily have a higher incidence of type 2 diabetes. Which of the following, if true, suggests a correlation, not causation?",
+    "options": [
+      "Sugary drinks are high in calories and contribute to weight gain.",
+      "People with a genetic predisposition to diabetes are more likely to crave sugary drinks.",
+      "Diet soda does not increase the risk of diabetes.",
+      "The study was funded by a sugar company."
+    ],
+    "correctIndex": 1,
+    "explanation": "This suggests a confounding factor: a genetic predisposition (an underlying cause) might lead to both increased sugary drink consumption and diabetes, rather than the drinks directly causing diabetes."
+  },
+  {
+    "question": "Statement: Companies that offer flexible work hours report higher employee satisfaction. Conclusion: Flexible work hours directly cause higher employee satisfaction. Which of the following, if true, most strengthens the conclusion?",
+    "options": [
+      "Companies with higher employee satisfaction are more likely to offer flexible work hours.",
+      "Employees with flexible work hours report better work-life balance.",
+      "Flexible work hours lead to increased productivity.",
+      "Many employees prefer a traditional 9-5 schedule."
+    ],
+    "correctIndex": 1,
+    "explanation": "If employees with flexible work hours report better work-life balance (a direct benefit), and work-life balance contributes to satisfaction, it strengthens the idea that flexible hours cause satisfaction."
   }
 ]

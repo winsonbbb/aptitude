@@ -1,0 +1,192 @@
+[
+  {
+    "question": "Which figure comes next in the sequence?",
+    "imageUrl": "assets/figure1.png",
+    "sequenceImages": [
+      "assets/figure1.png",
+      "assets/figure2.png",
+      "assets/figure3.png"
+    ],
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "optionImages": [
+      "assets/optionA.png",
+      "assets/optionB.png",
+      "assets/optionC.png",
+      "assets/optionD.png"
+    ],
+    "correctIndex": 0,
+    "explanation": "The small black dot moves clockwise through the corners of the square. The square's shading alternates between light gray and dark gray. Following the pattern (Light, Dark, Light), the next square should be dark gray. Following the dot's movement (top-left, top-right, bottom-right), the next position is bottom-left. Therefore, a dark gray square with a black dot in the bottom-left corner is the correct next figure."
+  },
+  {
+    "question": "Which figure comes next in the sequence? \nFigure 1: A large square containing a small circle in its top-left corner.\nFigure 2: A large square containing a small circle in its top-right corner.\nFigure 3: A large square containing a small circle in its bottom-right corner.\nFigure 4: A large square containing a small circle in its bottom-left corner.",
+    "options": [
+      "A large square containing a small circle in its top-left corner.",
+      "A large square containing a small circle in its bottom-right corner.",
+      "A large square containing a small circle in its top-right corner.",
+      "A large square containing a small circle in its center."
+    ],
+    "correctIndex": 0,
+    "explanation": "The small circle rotates clockwise through the four corners of the square, completing a full cycle after Figure 4. The next figure restarts the pattern with the circle in the top-left."
+  },
+  {
+    "question": "Which of the following figures is the odd one out? \nFigure A: A circle with a vertical line through its center.\nFigure B: A square with a horizontal line through its center.\nFigure C: A triangle with a vertical line through its center.\nFigure D: A rectangle with a horizontal line through its center.\nFigure E: A pentagon with a horizontal line through its center.",
+    "options": [
+      "Figure A",
+      "Figure B",
+      "Figure C",
+      "Figure D",
+      "Figure E"
+    ],
+    "correctIndex": 2,
+    "explanation": "All figures except Figure C are symmetrical either horizontally or vertically along the line drawn. The triangle with a vertical line is not horizontally symmetrical."
+  },
+  {
+    "question": "Which of the following figures continues the sequence? \nFigure 1: A 3x3 grid with the top-left square shaded.\nFigure 2: A 3x3 grid with the top-middle square shaded.\nFigure 3: A 3x3 grid with the top-right square shaded.\nFigure 4: A 3x3 grid with the middle-right square shaded.",
+    "options": [
+      "A 3x3 grid with the bottom-right square shaded.",
+      "A 3x3 grid with the bottom-middle square shaded.",
+      "A 3x3 grid with the middle-left square shaded.",
+      "A 3x3 grid with the top-left square shaded."
+    ],
+    "correctIndex": 0,
+    "explanation": "The shaded square moves clockwise around the perimeter of the 3x3 grid. Following Figure 4 (middle-right), the next position is bottom-right."
+  },
+  {
+    "question": "Which figure completes the series? \nFigure 1: A large square, with a small inner square. Both are black.\nFigure 2: A large square, with a small inner square. Outer is white, inner is black.\nFigure 3: A large square, with a small inner square. Both are white.",
+    "options": [
+      "A large square, with a small inner square. Both are black.",
+      "A large square, with a small inner square. Outer is black, inner is white.",
+      "A large square, with a small inner square. Both are white.",
+      "A large square, with a small inner circle. Both are black."
+    ],
+    "correctIndex": 1,
+    "explanation": "The outer square alternates black, white, black. The inner square alternates black, black, white. So the next in sequence would be a large square with a small inner square, outer is black, inner is white."
+  },
+  {
+    "question": "Identify the missing figure in the sequence. \nFigure 1: A cross (+) with a small circle at each end.\nFigure 2: A cross with small circles at the top and bottom ends only.\nFigure 3: A cross with a small circle at the top end only.",
+    "options": [
+      "A cross with a small circle at the bottom end only.",
+      "A cross with no circles.",
+      "A cross with small circles at left and right ends only.",
+      "A single line with one circle."
+    ],
+    "correctIndex": 1,
+    "explanation": "Circles are removed sequentially from the cross ends, starting from the sides, then bottom, then top. So the next figure should have no circles."
+  },
+  {
+    "question": "Which figure is the logical continuation of the series? \nFigure 1: A clock showing 12:00.\nFigure 2: A clock showing 3:00.\nFigure 3: A clock showing 6:00.",
+    "options": [
+      "A clock showing 9:00.",
+      "A clock showing 12:00.",
+      "A clock showing 7:00.",
+      "A clock showing 4:00."
+    ],
+    "correctIndex": 0,
+    "explanation": "The clock hands move 90 degrees clockwise each step. 6:00 + 90 degrees clockwise = 9:00."
+  },
+  {
+    "question": "Which image does not fit the pattern? \nImage A: A square divided into four smaller squares, with the top-left and bottom-right shaded.\nImage B: A square divided into four smaller squares, with the top-right and bottom-left shaded.\nImage C: A square divided into four smaller squares, with the top-left and top-right shaded.\nImage D: A square divided into four smaller squares, with all four squares shaded.",
+    "options": [
+      "Image A",
+      "Image B",
+      "Image C",
+      "Image D"
+    ],
+    "correctIndex": 2,
+    "explanation": "Images A, B, and D show diagonally or fully shaded patterns. Image C breaks this by having two adjacent squares shaded horizontally in the top row."
+  },
+  {
+    "question": "What is the next figure in the sequence? \nFigure 1: A large triangle pointing up, with a small circle at its top vertex.\nFigure 2: A large triangle pointing up, with a small circle at its bottom-left vertex.\nFigure 3: A large triangle pointing up, with a small circle at its bottom-right vertex.",
+    "options": [
+      "A large triangle pointing up, with a small circle at its top vertex.",
+      "A large triangle pointing up, with a small square at its top vertex.",
+      "A large triangle pointing down, with a small circle at its top vertex.",
+      "A large square, with a small circle at its top vertex."
+    ],
+    "correctIndex": 0,
+    "explanation": "The small circle rotates clockwise around the vertices of the triangle. After the bottom-right vertex, it returns to the top vertex."
+  },
+  {
+    "question": "Find the figure that completes the sequence: \nFigure 1: A single vertical line.\nFigure 2: Two vertical lines.\nFigure 3: Three vertical lines.",
+    "options": [
+      "One horizontal line.",
+      "Four vertical lines.",
+      "Three horizontal lines.",
+      "Two horizontal lines."
+    ],
+    "correctIndex": 1,
+    "explanation": "The sequence increases the number of vertical lines by one in each step."
+  },
+  {
+    "question": "Which figure is the next in the sequence? \nFigure 1: A square divided into four smaller squares, with the top-left square shaded.\nFigure 2: A square divided into four smaller squares, with the top-right square shaded.\nFigure 3: A square divided into four smaller squares, with the bottom-right square shaded.",
+    "options": [
+      "A square divided into four smaller squares, with the bottom-left square shaded.",
+      "A square divided into four smaller squares, with the top-left square shaded.",
+      "A square divided into four smaller squares, with the top-middle square shaded.",
+      "A square divided into four smaller squares, with no shading."
+    ],
+    "correctIndex": 0,
+    "explanation": "The shaded quadrant moves clockwise around the larger square."
+  },
+  {
+    "question": "Which image would be next in the sequence? \nImage 1: A square with one vertical line dividing it in half.\nImage 2: A square with one horizontal line dividing it in half.\nImage 3: A square with one diagonal line from top-left to bottom-right.\nImage 4: A square with one diagonal line from top-right to bottom-left.",
+    "options": [
+      "A square with two vertical lines.",
+      "A square with one vertical line dividing it in half.",
+      "A square with two horizontal lines.",
+      "A circle with one vertical line."
+    ],
+    "correctIndex": 1,
+    "explanation": "The pattern of lines within the square cycles through vertical, horizontal, and both diagonals, then repeats. After the second diagonal, it returns to a vertical line."
+  },
+  {
+    "question": "Which image completes the sequence? \nImage 1: [●----] \nImage 2: [-●---] \nImage 3: [--●--]",
+    "options": [
+      "Image A: [---●-]",
+      "Image B: [----●]",
+      "Image C: [●----]",
+      "Image D: [-----]"
+    ],
+    "correctIndex": 0,
+    "explanation": "The black circle moves one position to the right in each step."
+  },
+  {
+    "question": "Which is the odd one out? \nOption A: Square with 4 dots inside. \nOption B: Triangle with 3 dots inside. \nOption C: Circle with 5 dots inside. \nOption D: Pentagon with 5 dots inside.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "correctIndex": 2,
+    "explanation": "All figures except Option C have the number of dots equal to the number of sides of the shape. A circle has 0 sides and 5 dots. A pentagon has 5 sides and 5 dots."
+  },
+  {
+    "question": "What is the next figure in the sequence?",
+    "imageUrl": "assets/figure_q_new_1.png",
+    "sequenceImages": [
+      "assets/figure_seq_new_1.png",
+      "assets/figure_seq_new_2.png",
+      "assets/figure_seq_new_3.png"
+    ],
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "optionImages": [
+      "assets/option_new_1.png",
+      "assets/option_new_2.png",
+      "assets/option_new_3.png",
+      "assets/option_new_4.png"
+    ],
+    "correctIndex": 0,
+    "explanation": "The square rotates 90 degrees clockwise in each step, and the small circle moves from top-left to top-right, then bottom-right, then bottom-left."
+  }
+]

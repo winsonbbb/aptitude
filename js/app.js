@@ -4,7 +4,8 @@
   const TITLES = {
     numerical: 'Numerical reasoning',
     verbal: 'Verbal reasoning',
-    logical: 'Logical reasoning'
+    logical: 'Logical reasoning',
+    figure: 'Figure reasoning'
   };
 
   const viewHome = document.getElementById('view-home');
@@ -150,7 +151,8 @@
     if (correct) correctCount++;
     answeredCount++;
     revisionScore.textContent = 'Score: ' + correctCount + ' / ' + answeredCount;
-    feedback.textContent = correct ? 'Correct!' : 'Incorrect. ' + (questions[currentIndex].explanation || '');
+    const explanation = questions[currentIndex].explanation || '';
+    feedback.textContent = (correct ? 'Correct!' : 'Incorrect.') + (explanation ? ' ' + explanation : '');
     feedback.className = 'feedback ' + (correct ? 'feedback-correct' : 'feedback-incorrect');
     document.querySelectorAll('.option').forEach(function (label, i) {
       label.classList.add('disabled');
@@ -191,7 +193,7 @@
       if (view === 'home') {
         e.preventDefault();
         showView('home');
-      } else if (view === 'numerical' || view === 'verbal' || view === 'logical') {
+      } else if (view === 'numerical' || view === 'verbal' || view === 'logical' || view === 'figure') {
         e.preventDefault();
         startRevision(view);
       }

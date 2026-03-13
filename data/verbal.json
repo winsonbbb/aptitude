@@ -1098,5 +1098,1050 @@
     ],
     "correctIndex": 2,
     "explanation": "Zealous means showing great energy or enthusiasm; indifferent is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to AMELIORATE.",
+    "options": [
+      "Worsen",
+      "Improve",
+      "Aggravate",
+      "Intensify"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ameliorate means to make (something bad or unsatisfactory) better; improve."
+  },
+  {
+    "question": "Choose the word opposite in meaning to CACOPHONY.",
+    "options": [
+      "Discord",
+      "Harmony",
+      "Noise",
+      "Clamor"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cacophony means a harsh, discordant mixture of sounds; harmony is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to EBULLIENT.",
+    "options": [
+      "Depressed",
+      "Enthusiastic",
+      "Quiet",
+      "Reserved"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ebullient means cheerful and full of energy; enthusiastic."
+  },
+  {
+    "question": "Choose the word opposite in meaning to FLEETING.",
+    "options": [
+      "Brief",
+      "Transient",
+      "Permanent",
+      "Temporary"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fleeting means lasting for a very short time; permanent is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to GARRULOUS.",
+    "options": [
+      "Talkative",
+      "Silent",
+      "Reserved",
+      "Quiet"
+    ],
+    "correctIndex": 0,
+    "explanation": "Garrulous means excessively talkative, especially on trivial matters."
+  },
+  {
+    "question": "Choose the word opposite in meaning to HAPHAZARD.",
+    "options": [
+      "Random",
+      "Systematic",
+      "Disorganized",
+      "Careless"
+    ],
+    "correctIndex": 1,
+    "explanation": "Haphazard means lacking any obvious principle of organization; systematic is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to INNOCUOUS.",
+    "options": [
+      "Harmful",
+      "Harmless",
+      "Dangerous",
+      "Toxic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Innocuous means not harmful or offensive."
+  },
+  {
+    "question": "Choose the word opposite in meaning to JUXTAPOSE.",
+    "options": [
+      "Place side by side",
+      "Separate",
+      "Compare",
+      "Contrast"
+    ],
+    "correctIndex": 1,
+    "explanation": "Juxtapose means to place or deal with close together for contrasting effect; separate is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to KUDOS.",
+    "options": [
+      "Criticism",
+      "Blame",
+      "Praise",
+      "Disapproval"
+    ],
+    "correctIndex": 2,
+    "explanation": "Kudos means praise and honor given for achievement."
+  },
+  {
+    "question": "Choose the word opposite in meaning to LACONIC.",
+    "options": [
+      "Brief",
+      "Concise",
+      "Verbose",
+      "Silent"
+    ],
+    "correctIndex": 2,
+    "explanation": "Laconic means (of a person, speech, or style of writing) using very few words; verbose is the opposite."
+  },
+  {
+    "question": "Architect is to Building as Sculptor is to:",
+    "options": [
+      "Chisel",
+      "Statue",
+      "Clay",
+      "Artist"
+    ],
+    "correctIndex": 1,
+    "explanation": "An architect designs a building; a sculptor creates a statue."
+  },
+  {
+    "question": "Chef is to Recipe as Musician is to:",
+    "options": [
+      "Instrument",
+      "Song",
+      "Concert",
+      "Composer"
+    ],
+    "correctIndex": 1,
+    "explanation": "A chef follows a recipe; a musician plays a song."
+  },
+  {
+    "question": "Scissors is to Cut as Pen is to:",
+    "options": [
+      "Paper",
+      "Ink",
+      "Write",
+      "Cap"
+    ],
+    "correctIndex": 2,
+    "explanation": "Scissors are used to cut; a pen is used to write."
+  },
+  {
+    "question": "Driver is to Car as Pilot is to:",
+    "options": [
+      "Airport",
+      "Sky",
+      "Plane",
+      "Crew"
+    ],
+    "correctIndex": 2,
+    "explanation": "A driver operates a car; a pilot operates a plane."
+  },
+  {
+    "question": "Warm is to Cold as Wet is to:",
+    "options": [
+      "Rain",
+      "Dry",
+      "Damp",
+      "Water"
+    ],
+    "correctIndex": 1,
+    "explanation": "Warm and Cold are opposites; Wet and Dry are opposites."
+  },
+  {
+    "question": "Fish is to School as Birds are to:",
+    "options": [
+      "Nest",
+      "Flock",
+      "Sky",
+      "Feather"
+    ],
+    "correctIndex": 1,
+    "explanation": "A group of fish is called a school; a group of birds is called a flock."
+  },
+  {
+    "question": "Tree is to Root as Mountain is to:",
+    "options": [
+      "Peak",
+      "Valley",
+      "Base",
+      "Summit"
+    ],
+    "correctIndex": 2,
+    "explanation": "A root is the foundational part of a tree; a base is the foundational part of a mountain."
+  },
+  {
+    "question": "Page is to Book as Brick is to:",
+    "options": [
+      "Clay",
+      "Wall",
+      "House",
+      "Building"
+    ],
+    "correctIndex": 1,
+    "explanation": "A page is a component of a book; a brick is a component of a wall."
+  },
+  {
+    "question": "Sad is to Tears as Happy is to:",
+    "options": [
+      "Smile",
+      "Frown",
+      "Grief",
+      "Joy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sadness can cause tears; happiness can cause a smile."
+  },
+  {
+    "question": "Sun is to Day as Moon is to:",
+    "options": [
+      "Star",
+      "Night",
+      "Light",
+      "Dark"
+    ],
+    "correctIndex": 1,
+    "explanation": "The sun is associated with day; the moon is associated with night."
+  },
+  {
+    "question": "The artist used _____ colors to create a vibrant and energetic painting.",
+    "options": [
+      "Dull",
+      "Muted",
+      "Vivid",
+      "Pale"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vivid colors are bright and intense, which would contribute to a vibrant and energetic painting."
+  },
+  {
+    "question": "Her _____ for learning led her to pursue multiple degrees and read countless books.",
+    "options": [
+      "Aversion",
+      "Indifference",
+      "Passion",
+      "Reluctance"
+    ],
+    "correctIndex": 2,
+    "explanation": "A passion for learning would drive someone to pursue extensive education and reading."
+  },
+  {
+    "question": "The ancient ruins were surprisingly well-_____, despite centuries of exposure to the elements.",
+    "options": [
+      "Destroyed",
+      "Preserved",
+      "Decayed",
+      "Damaged"
+    ],
+    "correctIndex": 1,
+    "explanation": "Preserved means maintained in its original or existing state, fitting the context of old ruins being in good condition."
+  },
+  {
+    "question": "The journalist was known for her _____ reporting, always seeking out the objective truth.",
+    "options": [
+      "Biased",
+      "Subjective",
+      "Impartial",
+      "Opinionated"
+    ],
+    "correctIndex": 2,
+    "explanation": "Impartial reporting is unbiased and objective, which aligns with seeking the truth."
+  },
+  {
+    "question": "He tried to _____ his fear of public speaking by practicing in front of a mirror every day.",
+    "options": [
+      "Increase",
+      "Confront",
+      "Ignore",
+      "Suppress"
+    ],
+    "correctIndex": 1,
+    "explanation": "To confront one's fear means to face it directly, which is what practicing would help with."
+  },
+  {
+    "question": "The company issued a _____ apology for the error, acknowledging their mistake fully.",
+    "options": [
+      "Half-hearted",
+      "Sincere",
+      "Reluctant",
+      "Delayed"
+    ],
+    "correctIndex": 1,
+    "explanation": "A sincere apology is genuine and heartfelt, reflecting a full acknowledgment of a mistake."
+  },
+  {
+    "question": "The scientist proposed a _____ theory that challenged established beliefs in the field.",
+    "options": [
+      "Conventional",
+      "Radical",
+      "Conservative",
+      "Traditional"
+    ],
+    "correctIndex": 1,
+    "explanation": "A radical theory is one that is far-reaching or thorough, often challenging existing norms."
+  },
+  {
+    "question": "The witness gave a _____ account of the accident, leaving no details unmentioned.",
+    "options": [
+      "Vague",
+      "Brief",
+      "Detailed",
+      "Confused"
+    ],
+    "correctIndex": 2,
+    "explanation": "A detailed account includes all information, leaving nothing unmentioned."
+  },
+  {
+    "question": "His _____ to adapt to new technologies hindered his career progression.",
+    "options": [
+      "Willingness",
+      "Ability",
+      "Reluctance",
+      "Eagerness"
+    ],
+    "correctIndex": 2,
+    "explanation": "A reluctance (unwillingness) to adapt would hinder progress."
+  },
+  {
+    "question": "The government implemented _____ measures to curb inflation and stabilize the economy.",
+    "options": [
+      "Lenient",
+      "Strict",
+      "Flexible",
+      "Weak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Strict measures are often used to control economic issues like inflation."
+  },
+  {
+    "question": "Read the following statement and answer: \n\"Climate change is primarily caused by human activities that release greenhouse gases into the atmosphere, leading to a rise in global temperatures.\" \nWhat is a main cause of climate change according to the statement?",
+    "options": [
+      "Volcanic eruptions",
+      "Solar flares",
+      "Human activities",
+      "Ocean currents"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statement explicitly points to human activities as the primary cause."
+  },
+  {
+    "question": "Read the following statement and answer: \n\"The invention of the printing press revolutionized the spread of knowledge, making books more accessible and literacy rates higher.\" \nWhat was a major impact of the printing press?",
+    "options": [
+      "Decreased knowledge spread",
+      "Limited book access",
+      "Increased literacy rates",
+      "Reduced book production"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statement says it made books more accessible and literacy rates higher."
+  },
+  {
+    "question": "Read the following statement and answer: \n\"Sleep deprivation can lead to various negative health effects, including impaired cognitive function, mood disturbances, and a weakened immune system.\" \nWhat is one negative effect of sleep deprivation on health?",
+    "options": [
+      "Improved mood",
+      "Enhanced immunity",
+      "Clearer thinking",
+      "Impaired cognitive function"
+    ],
+    "correctIndex": 3,
+    "explanation": "The statement lists impaired cognitive function as a negative health effect."
+  },
+  {
+    "question": "Read the following statement and answer: \n\"While regular exercise is essential for physical health, mental well-being is equally important and can be maintained through mindfulness and stress management techniques.\" \nWhat is equally important as physical health for overall well-being?",
+    "options": [
+      "Diet",
+      "Social life",
+      "Mental well-being",
+      "Career success"
+    ],
+    "correctIndex": 2,
+    "explanation": "The statement explicitly mentions mental well-being as equally important."
+  },
+  {
+    "question": "Read the following statement and answer: \n\"The shift towards remote work has offered increased flexibility for employees but has also presented challenges in maintaining team cohesion and company culture.\" \nWhat is a challenge presented by remote work?",
+    "options": [
+      "Increased flexibility",
+      "Higher productivity",
+      "Maintaining team cohesion",
+      "Reduced commuting time"
+    ],
+    "correctIndex": 2,
+    "explanation": "Maintaining team cohesion is listed as a challenge of remote work."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Carrot",
+      "Orange"
+    ],
+    "correctIndex": 2,
+    "explanation": "Apple, Banana, and Orange are fruits. Carrot is a vegetable."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Chair",
+      "Table",
+      "Sofa",
+      "Window"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chair, Table, and Sofa are furniture. Window is a part of a building."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Fish",
+      "Bird"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dog, Cat, and Bird are typically land or air animals. Fish lives in water."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Run",
+      "Walk",
+      "Crawl",
+      "Sleep"
+    ],
+    "correctIndex": 3,
+    "explanation": "Run, Walk, and Crawl are forms of movement. Sleep is a state of rest."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Square"
+    ],
+    "correctIndex": 3,
+    "explanation": "Red, Blue, and Green are colors. Square is a shape."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Happy",
+      "Sad",
+      "Angry",
+      "Think"
+    ],
+    "correctIndex": 3,
+    "explanation": "Happy, Sad, and Angry are emotions. Think is a cognitive process."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Car",
+      "Bus",
+      "Train",
+      "Aeroplane"
+    ],
+    "correctIndex": 3,
+    "explanation": "Car, Bus, and Train are land vehicles. Aeroplane is an air vehicle."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Book",
+      "Newspaper",
+      "Magazine",
+      "Pen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Book, Newspaper, and Magazine are forms of publication/reading material. Pen is a writing instrument."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Summer",
+      "Winter",
+      "Spring",
+      "Day"
+    ],
+    "correctIndex": 3,
+    "explanation": "Summer, Winter, and Spring are seasons. Day is a unit of time."
+  },
+  {
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Cup",
+      "Plate",
+      "Bowl",
+      "Fork"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cup, Plate, and Bowl are containers for food/drink. Fork is an eating utensil."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: ARDET",
+    "options": [
+      "Trade",
+      "Tread",
+      "Dated",
+      "Dart"
+    ],
+    "correctIndex": 0,
+    "explanation": "The unscrambled word is TRADE."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: ETRHA",
+    "options": [
+      "Earth",
+      "Heart",
+      "Hater",
+      "Heard"
+    ],
+    "correctIndex": 1,
+    "explanation": "The unscrambled word is HEART."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: LAPPE",
+    "options": [
+      "Peal",
+      "Plea",
+      "Apple",
+      "Pale"
+    ],
+    "correctIndex": 2,
+    "explanation": "The unscrambled word is APPLE."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: BUMERN",
+    "options": [
+      "Number",
+      "Member",
+      "Burner",
+      "Remind"
+    ],
+    "correctIndex": 0,
+    "explanation": "The unscrambled word is NUMBER."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: RIVRE",
+    "options": [
+      "Drive",
+      "River",
+      "Arrive",
+      "Rivet"
+    ],
+    "correctIndex": 1,
+    "explanation": "The unscrambled word is RIVER."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: YATOD",
+    "options": [
+      "Datoy",
+      "Today",
+      "Toady",
+      "Todya"
+    ],
+    "correctIndex": 1,
+    "explanation": "The unscrambled word is TODAY."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: ORWLD",
+    "options": [
+      "Wordl",
+      "World",
+      "Drool",
+      "Rowld"
+    ],
+    "correctIndex": 1,
+    "explanation": "The unscrambled word is WORLD."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: TEELR",
+    "options": [
+      "Treel",
+      "Ertel",
+      "Letter",
+      "Relet"
+    ],
+    "correctIndex": 2,
+    "explanation": "The unscrambled word is LETTER."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: OCLCK",
+    "options": [
+      "Clock",
+      "Clcok",
+      "Colck",
+      "Ckolc"
+    ],
+    "correctIndex": 0,
+    "explanation": "The unscrambled word is CLOCK."
+  },
+  {
+    "question": "Unscramble the letters to form a meaningful word: ODCOG",
+    "options": [
+      "Doogc",
+      "Goodc",
+      "Codgo",
+      "Good"
+    ],
+    "correctIndex": 3,
+    "explanation": "The unscrambled word is GOOD."
+  },
+  {
+    "question": "If you rearrange the letters \"CIFAFIC\", you would have the name of a(n):",
+    "options": [
+      "Animal",
+      "Ocean",
+      "Country",
+      "City"
+    ],
+    "correctIndex": 1,
+    "explanation": "The letters rearrange to PACIFIC (Ocean)."
+  },
+  {
+    "question": "What three-letter word can be added in front of \"BOARD\" to make new words?",
+    "options": [
+      "Key",
+      "Sun",
+      "Cup",
+      "Bed"
+    ],
+    "correctIndex": 0,
+    "explanation": "KEY can be added to form KEYBOARD."
+  },
+  {
+    "question": "Which of the following is the odd one out?",
+    "options": [
+      "January",
+      "February",
+      "March",
+      "Wednesday"
+    ],
+    "correctIndex": 3,
+    "explanation": "January, February, March are months. Wednesday is a day of the week."
+  },
+  {
+    "question": "Which word, when inserted in the blanks, completes the sentence meaningfully? \n\"He was so _____ that he finished the marathon despite his injury.\"\n",
+    "options": [
+      "Weak",
+      "Persistent",
+      "Lazy",
+      "Tired"
+    ],
+    "correctIndex": 1,
+    "explanation": "Persistent means continuing firmly or obstinately in a course of action in spite of difficulty."
+  },
+  {
+    "question": "Find the word that can be formed using all the letters in \"LISTEN\", and meaning something different.",
+    "options": [
+      "Silent",
+      "Enlist",
+      "Tenant",
+      "Lintes"
+    ],
+    "correctIndex": 0,
+    "explanation": "SILENT can be formed from LISTEN using all letters."
+  },
+  {
+    "question": "What is the four-letter word that refers to the beginning of something?",
+    "options": [
+      "End",
+      "Start",
+      "Finish",
+      "Begin"
+    ],
+    "correctIndex": 1,
+    "explanation": "The word START means the beginning of something."
+  },
+  {
+    "question": "Which word can be associated with \"school, teacher, book\"?",
+    "options": [
+      "Food",
+      "Learning",
+      "Play",
+      "Home"
+    ],
+    "correctIndex": 1,
+    "explanation": "All three words are related to the concept of learning."
+  },
+  {
+    "question": "Which number comes next in the sequence of numbers that spell out names of months? \nJ, F, M, A, M, J, J, A, S, O, N, ?",
+    "options": [
+      "D",
+      "E",
+      "C",
+      "V"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sequence is the first letter of each month: January, February, March, April, May, June, July, August, September, October, November. The next is December, so D."
+  },
+  {
+    "question": "Which word is the odd one out among: \"Talk, Speak, Say, Listen\"?",
+    "options": [
+      "Talk",
+      "Speak",
+      "Say",
+      "Listen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Talk, Speak, and Say are all forms of verbal communication from the speaker's perspective. Listen is receiving communication."
+  },
+  {
+    "question": "What is the four-letter word that refers to a large body of water?",
+    "options": [
+      "Lake",
+      "Pond",
+      "Ocean",
+      "River"
+    ],
+    "correctIndex": 0,
+    "explanation": "LAKE is a four-letter word referring to a body of water. Ocean is also a large body of water but has five letters."
+  },
+  {
+    "question": "Identify the correct sentence structure: ",
+    "options": [
+      "He go to the store.",
+      "He goes to the store.",
+      "He going to the store.",
+      "He gone to the store."
+    ],
+    "correctIndex": 1,
+    "explanation": "With a third-person singular subject (He), the verb in the present tense takes an -es ending (goes)."
+  },
+  {
+    "question": "Choose the sentence with the correct punctuation.",
+    "options": [
+      "I like apples, oranges and bananas.",
+      "I like apples, oranges, and bananas.",
+      "I like apples oranges, and bananas.",
+      "I like apples; oranges and bananas."
+    ],
+    "correctIndex": 1,
+    "explanation": "In a list of three or more items, a comma should separate each item, including before the \"and\" (Oxford comma)."
+  },
+  {
+    "question": "Which sentence correctly uses an apostrophe?",
+    "options": [
+      "The cat's toys were scattered.",
+      "The cats toys were scattered.",
+      "The cats's toys were scattered.",
+      "The cats toys' were scattered."
+    ],
+    "correctIndex": 0,
+    "explanation": "The apostrophe indicates possession for a single cat (cat's)."
+  },
+  {
+    "question": "Identify the sentence that uses the correct verb tense.",
+    "options": [
+      "She walked to the park yesterday.",
+      "She walks to the park yesterday.",
+      "She will walk to the park yesterday.",
+      "She walk to the park yesterday."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Yesterday\" indicates past tense, so the verb \"walked\" is correct."
+  },
+  {
+    "question": "Choose the correct form of the word to complete the sentence: \"The team played _____ in the final match.\"\n",
+    "options": [
+      "Good",
+      "Well",
+      "Better",
+      "Best"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Well\" is an adverb modifying the verb \"played,\" indicating how the team played."
+  },
+  {
+    "question": "Which sentence uses correct subject-verb agreement?",
+    "options": [
+      "The dog and the cat is playing.",
+      "The dog and the cat are playing.",
+      "The dog, with the cat, is playing.",
+      "The dog, with the cat, are playing."
+    ],
+    "correctIndex": 1,
+    "explanation": "When two subjects are joined by \"and,\" they form a compound subject and take a plural verb (are)."
+  },
+  {
+    "question": "Identify the sentence with no grammatical errors.",
+    "options": [
+      "Between you and I, this is a secret.",
+      "Between you and me, this is a secret.",
+      "Between I and you, this is a secret.",
+      "Between me and you, this is a secret."
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Between\" is a preposition, and pronouns following prepositions should be in the objective case (me, not I)."
+  },
+  {
+    "question": "Choose the sentence that correctly uses a semicolon.",
+    "options": [
+      "I like to read; write, and draw.",
+      "I like to read; I also like to write and draw.",
+      "I like to read; I also like to write; and draw.",
+      "I like to read, I also like to write, and draw."
+    ],
+    "correctIndex": 1,
+    "explanation": "A semicolon is used to join two independent clauses that are closely related."
+  },
+  {
+    "question": "Which word best completes the sentence? \"He has a _____ knowledge of ancient history.\"",
+    "options": [
+      "Vast",
+      "Small",
+      "Limited",
+      "Narrow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vast means of very great extent or quantity; immense."
+  },
+  {
+    "question": "Identify the correct sentence.",
+    "options": [
+      "The principal idea is valid.",
+      "The principle idea is valid.",
+      "The principals idea is valid.",
+      "The principles idea is valid."
+    ],
+    "correctIndex": 0,
+    "explanation": "\"Principal\" refers to the main or most important idea."
+  },
+  {
+    "question": "Statement: All birds have wings. A bat has wings. Conclusion: A bat is a bird.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is a logical fallacy (affirming the consequent). While all birds have wings, bats also have wings but are mammals, not birds. Having wings does not exclusively make an animal a bird."
+  },
+  {
+    "question": "Statement: Some students play football. All football players are athletic. Conclusion: Some students are athletic.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 0,
+    "explanation": "If some students play football, and all football players are athletic, then those students who play football must also be athletic. Thus, some students are athletic."
+  },
+  {
+    "question": "Statement: No fish can talk. My pet can talk. Conclusion: My pet is not a fish.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is a valid deductive argument. If no fish can talk, and my pet can talk, then my pet cannot be a fish."
+  },
+  {
+    "question": "Statement: All dogs bark. Some dogs bite. Conclusion: Some barking animals bite.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 0,
+    "explanation": "If some dogs bite, and all dogs bark, then those dogs that bite are also barking animals. Therefore, some barking animals bite."
+  },
+  {
+    "question": "Statement: If it is Tuesday, then I have a meeting. I have a meeting. Conclusion: It is Tuesday.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 2,
+    "explanation": "This is affirming the consequent. While having a meeting is a consequence of it being Tuesday, it doesn't mean a meeting only occurs on Tuesday. I could have meetings on other days."
+  },
+  {
+    "question": "Statement: All roses are flowers. Some flowers are red. Conclusion: Some roses are red.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 2,
+    "explanation": "We know all roses are flowers, and there is some overlap between flowers and red things. However, we cannot guarantee that any specific roses are among those red flowers."
+  },
+  {
+    "question": "Statement: No cars are bikes. All bikes are vehicles. Conclusion: No cars are vehicles.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is false. Cars are a type of vehicle. The fact that no cars are bikes does not mean no cars are vehicles."
+  },
+  {
+    "question": "Statement: Some birds are small. All small birds can sing. Conclusion: Some birds can sing.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 0,
+    "explanation": "If some birds are small, and all small birds can sing, then those small birds must also be able to sing. Therefore, some birds can sing."
+  },
+  {
+    "question": "Statement: If a person is happy, they smile. John is not smiling. Conclusion: John is not happy.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 0,
+    "explanation": "This is a valid deduction (modus tollens). If being happy implies smiling, and John is not smiling, then John cannot be happy."
+  },
+  {
+    "question": "Statement: All children like sweets. Some adults like sweets. Conclusion: Some adults are children.",
+    "options": [
+      "True",
+      "False",
+      "Cannot be determined",
+      "Partially true"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is a logical fallacy. Liking sweets is a common trait, but it does not imply that adults who like sweets are children."
+  },
+  {
+    "question": "Argument: Reducing the speed limit will reduce accidents. Therefore, we should reduce the speed limit. Which of the following is a necessary assumption?",
+    "options": [
+      "All accidents are caused by speeding.",
+      "Drivers will obey the new speed limit.",
+      "Reducing accidents is the only goal.",
+      "The current speed limit is too high."
+    ],
+    "correctIndex": 1,
+    "explanation": "For the reduced speed limit to be effective, drivers must actually follow it. If they don't, accidents might not decrease."
+  },
+  {
+    "question": "Argument: Our product is superior because it uses a patented technology. Which of the following, if true, most weakens the argument?",
+    "options": [
+      "The patented technology is expensive to produce.",
+      "Competitors have non-patented technologies that are more effective.",
+      "The patent is about to expire.",
+      "Consumers do not care about patented technology."
+    ],
+    "correctIndex": 1,
+    "explanation": "If competitors have better, non-patented technology, then merely having a patented technology does not guarantee superiority."
+  },
+  {
+    "question": "Argument: Investing in renewable energy is crucial for the future. Therefore, the government should provide substantial subsidies for solar panel installation. Which of the following is an unstated assumption?",
+    "options": [
+      "Solar panels are the only renewable energy source.",
+      "Government subsidies are the most effective way to encourage solar panel installation.",
+      "Renewable energy is cheaper than fossil fuels.",
+      "Everyone should install solar panels."
+    ],
+    "correctIndex": 1,
+    "explanation": "The argument assumes that subsidies are the best or necessary mechanism to achieve the goal of increased solar panel installation."
+  },
+  {
+    "question": "Argument: The city's new recycling program is a failure because recycling rates have not increased. Which of the following, if true, most strengthens the argument?",
+    "options": [
+      "Many residents are unaware of the new program.",
+      "The old recycling program was very effective.",
+      "The amount of waste generated has decreased significantly.",
+      "There was a technical issue with collecting recycled materials."
+    ],
+    "correctIndex": 2,
+    "explanation": "If the overall waste generated decreased, but recycling rates didn't go up, it would imply that even with less waste, the program isn't encouraging more recycling, thus strengthening the argument of failure."
+  },
+  {
+    "question": "Argument: A balanced diet is essential for good health. Thus, all people should become vegetarians. Which of the following, if true, reveals a flaw in the reasoning?",
+    "options": [
+      "Vegetarian diets can be balanced and healthy.",
+      "Many non-vegetarian foods also provide essential nutrients.",
+      "Some people have ethical reasons for being vegetarian.",
+      "Becoming vegetarian is difficult for many people."
+    ],
+    "correctIndex": 1,
+    "explanation": "The argument jumps from \"balanced diet is essential\" to \"become vegetarian.\" If non-vegetarian foods can also provide a balanced diet, then vegetarianism isn't a necessary conclusion."
+  },
+  {
+    "question": "Argument: Increased screen time among teenagers leads to poorer academic performance. This is because excessive screen time reduces concentration. Which of the following is an unstated assumption?",
+    "options": [
+      "Academic performance is only affected by concentration.",
+      "All teenagers spend excessive time on screens.",
+      "Reduced concentration always leads to poorer academic performance.",
+      "Parents should limit screen time."
+    ],
+    "correctIndex": 2,
+    "explanation": "The argument assumes that reduced concentration (from screen time) leads to poorer academic performance."
+  },
+  {
+    "question": "Argument: To ensure fair elections, we must implement mandatory voter ID laws. Which of the following, if true, most weakens the argument?",
+    "options": [
+      "Mandatory voter ID laws disproportionately affect minority voters.",
+      "Voter fraud is already extremely rare and does not significantly impact election outcomes.",
+      "Most countries have mandatory voter ID laws.",
+      "Voter ID laws are expensive to implement."
+    ],
+    "correctIndex": 1,
+    "explanation": "If voter fraud is rare, then the proposed solution (mandatory ID laws) isn't addressing a significant problem, thus weakening the justification for the law."
+  },
+  {
+    "question": "Argument: All successful businesses prioritize customer satisfaction. Our business prioritizes customer satisfaction. Conclusion: Our business is successful. Which of the following best describes the flaw in the argument?",
+    "options": [
+      "Faulty generalization",
+      "Affirming the consequent",
+      "Denying the antecedent",
+      "Circular reasoning"
+    ],
+    "correctIndex": 1,
+    "explanation": "This is affirming the consequent. While prioritizing customer satisfaction is a characteristic of successful businesses, it doesn't guarantee success; other factors are also involved."
+  },
+  {
+    "question": "Argument: Implementing a four-day work week will increase employee productivity. This is because a shorter week reduces burnout and improves morale. Which of the following, if true, most strengthens the argument?",
+    "options": [
+      "Companies that implemented a four-day work week reported a significant increase in productivity and employee satisfaction.",
+      "Many employees prefer a four-day work week.",
+      "Productivity often drops on Fridays in a five-day work week.",
+      "The four-day work week would require longer hours on the remaining days."
+    ],
+    "correctIndex": 0,
+    "explanation": "Direct evidence from companies that have already implemented it, showing increased productivity, strongly supports the argument."
+  },
+  {
+    "question": "Argument: To improve public health, the government should impose a high tax on sugary drinks. Which of the following, if true, suggests that the tax might not achieve its intended goal?",
+    "options": [
+      "People will simply switch to other unhealthy snacks or drinks not covered by the tax.",
+      "The tax revenue could be used to fund health initiatives.",
+      "Sugary drinks are a major contributor to obesity.",
+      "The public generally supports taxes on unhealthy products."
+    ],
+    "correctIndex": 0,
+    "explanation": "If people substitute sugary drinks with other unhealthy items, the overall public health goal (reducing unhealthy consumption) might not be achieved, despite reducing sugary drink consumption."
   }
 ]
