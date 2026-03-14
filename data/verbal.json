@@ -1496,105 +1496,6 @@
     "explanation": "Apple, Banana, and Orange are fruits. Carrot is a vegetable."
   },
   {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Chair",
-      "Table",
-      "Sofa",
-      "Window"
-    ],
-    "correctIndex": 3,
-    "explanation": "Chair, Table, and Sofa are furniture. Window is a part of a building."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Dog",
-      "Cat",
-      "Fish",
-      "Bird"
-    ],
-    "correctIndex": 2,
-    "explanation": "Dog, Cat, and Bird are typically land or air animals. Fish lives in water."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Run",
-      "Walk",
-      "Crawl",
-      "Sleep"
-    ],
-    "correctIndex": 3,
-    "explanation": "Run, Walk, and Crawl are forms of movement. Sleep is a state of rest."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Red",
-      "Blue",
-      "Green",
-      "Square"
-    ],
-    "correctIndex": 3,
-    "explanation": "Red, Blue, and Green are colors. Square is a shape."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Happy",
-      "Sad",
-      "Angry",
-      "Think"
-    ],
-    "correctIndex": 3,
-    "explanation": "Happy, Sad, and Angry are emotions. Think is a cognitive process."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Car",
-      "Bus",
-      "Train",
-      "Aeroplane"
-    ],
-    "correctIndex": 3,
-    "explanation": "Car, Bus, and Train are land vehicles. Aeroplane is an air vehicle."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Book",
-      "Newspaper",
-      "Magazine",
-      "Pen"
-    ],
-    "correctIndex": 3,
-    "explanation": "Book, Newspaper, and Magazine are forms of publication/reading material. Pen is a writing instrument."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Summer",
-      "Winter",
-      "Spring",
-      "Day"
-    ],
-    "correctIndex": 3,
-    "explanation": "Summer, Winter, and Spring are seasons. Day is a unit of time."
-  },
-  {
-    "question": "Which word does NOT belong with the others?",
-    "options": [
-      "Cup",
-      "Plate",
-      "Bowl",
-      "Fork"
-    ],
-    "correctIndex": 3,
-    "explanation": "Cup, Plate, and Bowl are containers for food/drink. Fork is an eating utensil."
-  },
-  {
     "question": "Unscramble the letters to form a meaningful word: ARDET",
     "options": [
       "Trade",
@@ -2143,5 +2044,995 @@
     ],
     "correctIndex": 0,
     "explanation": "If people substitute sugary drinks with other unhealthy items, the overall public health goal (reducing unhealthy consumption) might not be achieved, despite reducing sugary drink consumption."
+  },
+  {
+    "question": "Choose the word most similar in meaning to OBSTREPEROUS.",
+    "options": [
+      "Quiet",
+      "Restrained",
+      "Noisy",
+      "Compliant"
+    ],
+    "correctIndex": 2,
+    "explanation": "Obstreperous means noisy and difficult to control."
+  },
+  {
+    "question": "Choose the word opposite in meaning to LUGUBRIOUS.",
+    "options": [
+      "Mournful",
+      "Optimistic",
+      "Gloomy",
+      "Sorrowful"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lugubrious means looking or sounding sad and dismal; optimistic or cheerful is the opposite."
+  },
+  {
+    "question": "Choose the word most similar in meaning to ICONOCLAST.",
+    "options": [
+      "Conformist",
+      "Critic",
+      "Believer",
+      "Supporter"
+    ],
+    "correctIndex": 1,
+    "explanation": "An iconoclast is a person who attacks cherished beliefs or institutions; a critic or skeptic."
+  },
+  {
+    "question": "Choose the word opposite in meaning to EPHEMERAL.",
+    "options": [
+      "Transient",
+      "Fleeting",
+      "Permanent",
+      "Short-lived"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ephemeral means lasting for a very short time; permanent is the opposite."
+  },
+  {
+    "question": "Analogy: PERNICIOUS is to HARM as...?",
+    "options": [
+      "Beneficial is to Help",
+      "Odious is to Pleasant",
+      "Fragrant is to Stink",
+      "Delicious is to Taste"
+    ],
+    "correctIndex": 0,
+    "explanation": "Pernicious means having a harmful effect. Beneficial means having a helpful effect. The relationship is 'adjective describes the noun'."
+  },
+  {
+    "question": "Choose the word most similar in meaning to PERSPICACIOUS.",
+    "options": [
+      "Ignorant",
+      "Insightful",
+      "Dull",
+      "Confused"
+    ],
+    "correctIndex": 1,
+    "explanation": "Perspicacious means having a ready insight into and understanding of things."
+  },
+  {
+    "question": "Choose the word opposite in meaning to CAPRICIOUS.",
+    "options": [
+      "Fickle",
+      "Unstable",
+      "Consistent",
+      "Variable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Capricious means given to sudden and unaccountable changes of mood or behavior; consistent is the opposite."
+  },
+  {
+    "question": "Analogy: LOQUACIOUS is to TALKATIVE as...?",
+    "options": [
+      "Taciturn is to Silent",
+      "Friendly is to Hostile",
+      "Heavy is to Light",
+      "Fast is to Slow"
+    ],
+    "correctIndex": 0,
+    "explanation": "Loquacious and Talkative are synonyms. Taciturn and Silent are synonyms."
+  },
+  {
+    "question": "Sentence Completion: His ______ nature made him prone to sudden outbursts of anger.",
+    "options": [
+      "Placid",
+      "Volatile",
+      "Stoic",
+      "Apathetic"
+    ],
+    "correctIndex": 1,
+    "explanation": "Volatile means liable to change rapidly and unpredictably, especially for the worse."
+  },
+  {
+    "question": "Choose the word most similar in meaning to ESOTERIC.",
+    "options": [
+      "Common",
+      "Obscure",
+      "Simple",
+      "Public"
+    ],
+    "correctIndex": 1,
+    "explanation": "Esoteric means intended for or likely to be understood by only a small number of people with specialized knowledge."
+  },
+  {
+    "question": "Choose the word opposite in meaning to MITIGATE.",
+    "options": [
+      "Alleviate",
+      "Aggravate",
+      "Reduce",
+      "Sooth"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mitigate means make less severe, serious, or painful. Aggravate means make (a problem, injury, or offense) worse or more serious."
+  },
+  {
+    "question": "Sentence Completion: The politician's speech was full of ______, designed to obscure the truth rather than reveal it.",
+    "options": [
+      "Clarity",
+      "Obfuscation",
+      "Candor",
+      "Honesty"
+    ],
+    "correctIndex": 1,
+    "explanation": "Obfuscation refers to the action of making something obscure, unclear, or unintelligible."
+  },
+  {
+    "question": "Choose the word most similar in meaning to SYCOPHANT.",
+    "options": [
+      "Leader",
+      "Rebel",
+      "Flatterer",
+      "Critic"
+    ],
+    "correctIndex": 2,
+    "explanation": "A sycophant is a person who acts obsequiously toward someone important in order to gain advantage; a flatterer."
+  },
+  {
+    "question": "Choose the word opposite in meaning to QUELL.",
+    "options": [
+      "Suppress",
+      "Calm",
+      "Incite",
+      "Subdue"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quell means put an end to (a rebellion or other disorder), typically by the use of force. Incite means encourage or stir up (violent or unlawful behavior)."
+  },
+  {
+    "question": "Analogy: ALTRUISTIC is to SELFLESS as...?",
+    "options": [
+      "Greedy is to Generous",
+      "Brave is to Cowardly",
+      "Parsimonious is to Stingy",
+      "Happy is to Sad"
+    ],
+    "correctIndex": 2,
+    "explanation": "Altruistic and Selfless are synonyms. Parsimonious and Stingy are synonyms."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: EPHEMERAL",
+    "options": [
+      "Permanent",
+      "Short",
+      "Brief",
+      "Fleeting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ephemeral means the opposite of Permanent."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: CACOPHONY",
+    "options": [
+      "Harmony",
+      "Discord",
+      "Clamor",
+      "Noise"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cacophony means the opposite of Harmony."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: ENERVATE",
+    "options": [
+      "Strengthen",
+      "Tire",
+      "Weaken",
+      "Exhaust"
+    ],
+    "correctIndex": 0,
+    "explanation": "Enervate means the opposite of Strengthen."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: LOQUACIOUS",
+    "options": [
+      "Chatty",
+      "Talkative",
+      "Taciturn",
+      "Verbose"
+    ],
+    "correctIndex": 2,
+    "explanation": "Loquacious means the opposite of Taciturn."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: OBDURATE",
+    "options": [
+      "Stubborn",
+      "Yielding",
+      "Hard",
+      "Firm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Obdurate means the opposite of Yielding."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: PAUCITY",
+    "options": [
+      "Scarcity",
+      "Abundance",
+      "Few",
+      "Lack"
+    ],
+    "correctIndex": 1,
+    "explanation": "Paucity means the opposite of Abundance."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: RESCIND",
+    "options": [
+      "Cancel",
+      "Repeal",
+      "Enforce",
+      "Revoke"
+    ],
+    "correctIndex": 2,
+    "explanation": "Rescind means the opposite of Enforce."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: TORPOR",
+    "options": [
+      "Energy",
+      "Lethargy",
+      "Sluggishness",
+      "Sleep"
+    ],
+    "correctIndex": 0,
+    "explanation": "Torpor means the opposite of Energy."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: ZEAL",
+    "options": [
+      "Apathy",
+      "Enthusiasm",
+      "Passion",
+      "Fervor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Zeal means the opposite of Apathy."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: AMELIORATE",
+    "options": [
+      "Improve",
+      "Enhance",
+      "Worsen",
+      "Better"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ameliorate means the opposite of Worsen."
+  },
+  {
+    "question": "Scalpel is to Surgeon as Chisel is to:",
+    "options": [
+      "Canvas",
+      "Paint",
+      "Brush",
+      "Sculptor"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Scalpel relates to Surgeon in the same way Chisel relates to Sculptor."
+  },
+  {
+    "question": "Chapter is to Book as Room is to:",
+    "options": [
+      "Door",
+      "Window",
+      "Floor",
+      "House"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Chapter relates to Book in the same way Room relates to House."
+  },
+  {
+    "question": "Grain is to Sand as Drop is to:",
+    "options": [
+      "Water",
+      "Wave",
+      "Beach",
+      "Ocean"
+    ],
+    "correctIndex": 0,
+    "explanation": "Relationship: Grain relates to Sand in the same way Drop relates to Water."
+  },
+  {
+    "question": "Archive is to Documents as Museum is to:",
+    "options": [
+      "Gallery",
+      "Artifacts",
+      "Library",
+      "Books"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Archive relates to Documents in the same way Museum relates to Artifacts."
+  },
+  {
+    "question": "Odometer is to Distance as Altimeter is to:",
+    "options": [
+      "Speedometer",
+      "Speed",
+      "Height",
+      "Thermometer"
+    ],
+    "correctIndex": 2,
+    "explanation": "Relationship: Odometer relates to Distance in the same way Altimeter relates to Height."
+  },
+  {
+    "question": "Cork is to Bottle as Lid is to:",
+    "options": [
+      "Glass",
+      "Handle",
+      "Jar",
+      "Cup"
+    ],
+    "correctIndex": 2,
+    "explanation": "Relationship: Cork relates to Bottle in the same way Lid relates to Jar."
+  },
+  {
+    "question": "Stanza is to Poem as Act is to:",
+    "options": [
+      "Chapter",
+      "Movie",
+      "Scene",
+      "Play"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Stanza relates to Poem in the same way Act relates to Play."
+  },
+  {
+    "question": "Diligent is to Lazy as Cautious is to:",
+    "options": [
+      "Fast",
+      "Careful",
+      "Slow",
+      "Reckless"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Diligent relates to Lazy in the same way Cautious relates to Reckless."
+  },
+  {
+    "question": "Sound is to Cacophony as Smell is to:",
+    "options": [
+      "Flavor",
+      "Stench",
+      "Taste",
+      "Sight"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Sound relates to Cacophony in the same way Smell relates to Stench."
+  },
+  {
+    "question": "Proctor is to Supervise as Prodigy is to:",
+    "options": [
+      "Protect",
+      "Prophet",
+      "Predict",
+      "Wonder"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Proctor relates to Supervise in the same way Prodigy relates to Wonder."
+  },
+  {
+    "question": "Complete the sentence: The scientist's theory was so ______ that it was initially met with skepticism.",
+    "options": [
+      "Revolutionary",
+      "Simple",
+      "Mundane",
+      "Expected"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Revolutionary' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: Despite the ______ evidence, the jury could not reach a verdict.",
+    "options": [
+      "Scant",
+      "Weak",
+      "Missing",
+      "Overwhelming"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Overwhelming' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ nature of the debate made it difficult to reach a consensus.",
+    "options": [
+      "Calm",
+      "Contentious",
+      "Peaceful",
+      "Friendly"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Contentious' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: Her ______ approach to the problem yielded a unique solution.",
+    "options": [
+      "Standard",
+      "Traditional",
+      "Common",
+      "Innovative"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Innovative' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the ancient civilization is still a mystery.",
+    "options": [
+      "Growth",
+      "Birth",
+      "Rise",
+      "Demise"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Demise' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: He was known for his ______ wit, often making sharp and clever remarks.",
+    "options": [
+      "Kind",
+      "Slow",
+      "Dull",
+      "Acerbic"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Acerbic' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ landscape was breathtakingly beautiful.",
+    "options": [
+      "Pristine",
+      "Ugly",
+      "Dirty",
+      "Polluted"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Pristine' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the situation required immediate action.",
+    "options": [
+      "Delay",
+      "Urgency",
+      "Patience",
+      "Calmness"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Urgency' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: His ______ behavior at the party was embarrassing.",
+    "options": [
+      "Boorish",
+      "Polite",
+      "Gentle",
+      "Refined"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Boorish' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the new policy was felt by everyone.",
+    "options": [
+      "Impact",
+      "Absence",
+      "Silence",
+      "Void"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Impact' fits the context best."
+  },
+  {
+    "question": "Analyze the logic: All mammals are warm-blooded. Whales are mammals. Therefore:",
+    "options": [
+      "Whales are fish",
+      "Whales are cold-blooded",
+      "Whales live in the ocean",
+      "Whales are warm-blooded"
+    ],
+    "correctIndex": 3,
+    "explanation": "Logical deduction: Whales are warm-blooded."
+  },
+  {
+    "question": "Analyze the logic: If it rains, the ground gets wet. The ground is wet. Therefore:",
+    "options": [
+      "It did not rain",
+      "It definitely rained",
+      "It might have rained",
+      "Someone spilled water"
+    ],
+    "correctIndex": 2,
+    "explanation": "Logical deduction: It might have rained."
+  },
+  {
+    "question": "Analyze the logic: Some fruits are acidic. Lemons are fruits. Therefore:",
+    "options": [
+      "No fruits are acidic",
+      "Lemons might be acidic",
+      "Lemons are definitely acidic",
+      "Lemons are sweet"
+    ],
+    "correctIndex": 1,
+    "explanation": "Logical deduction: Lemons might be acidic."
+  },
+  {
+    "question": "Analyze the logic: All squares are rectangles. No rectangles are circles. Therefore:",
+    "options": [
+      "Some rectangles are squares",
+      "Some squares are circles",
+      "All circles are squares",
+      "No squares are circles"
+    ],
+    "correctIndex": 3,
+    "explanation": "Logical deduction: No squares are circles."
+  },
+  {
+    "question": "Analyze the logic: Only students with ID cards can enter. John entered. Therefore:",
+    "options": [
+      "John sneaked in",
+      "John is a teacher",
+      "John has an ID card",
+      "John lost his ID card"
+    ],
+    "correctIndex": 2,
+    "explanation": "Logical deduction: John has an ID card."
+  },
+  {
+    "question": "Analyze the logic: Most birds can fly. Penguins are birds. Therefore:",
+    "options": [
+      "Penguins might fly",
+      "All birds fly",
+      "Penguins cannot fly",
+      "Penguins definitely fly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Logical deduction: Penguins might fly."
+  },
+  {
+    "question": "Analyze the logic: If A implies B, and B implies C, then:",
+    "options": [
+      "C implies A",
+      "B implies A",
+      "A is false",
+      "A implies C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Logical deduction: A implies C."
+  },
+  {
+    "question": "Analyze the logic: No politicians are honest. Some honest people are teachers. Therefore:",
+    "options": [
+      "No teachers are politicians",
+      "Some politicians are teachers",
+      "Some teachers are not politicians",
+      "All teachers are honest"
+    ],
+    "correctIndex": 2,
+    "explanation": "Logical deduction: Some teachers are not politicians."
+  },
+  {
+    "question": "Analyze the logic: All A are B. All B are C. Therefore:",
+    "options": [
+      "No A are C",
+      "All C are A",
+      "Some A are not C",
+      "All A are C"
+    ],
+    "correctIndex": 3,
+    "explanation": "Logical deduction: All A are C."
+  },
+  {
+    "question": "Analyze the logic: If X is true, then Y is false. Y is true. Therefore:",
+    "options": [
+      "X is false",
+      "X might be true",
+      "X is true",
+      "Y is false"
+    ],
+    "correctIndex": 0,
+    "explanation": "Logical deduction: X is false."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: MELLIFLUOUS",
+    "options": [
+      "Smooth",
+      "Sweet",
+      "Cacophonous",
+      "Harmonious"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mellifluous means the opposite of Cacophonous."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: NADIR",
+    "options": [
+      "Bottom",
+      "Base",
+      "Zenith",
+      "Low"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nadir means the opposite of Zenith."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: OBFUSCATE",
+    "options": [
+      "Confuse",
+      "Complicate",
+      "Clarify",
+      "Hide"
+    ],
+    "correctIndex": 2,
+    "explanation": "Obfuscate means the opposite of Clarify."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: PARSIMONIOUS",
+    "options": [
+      "Cheap",
+      "Stingy",
+      "Generous",
+      "Frugal"
+    ],
+    "correctIndex": 2,
+    "explanation": "Parsimonious means the opposite of Generous."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: QUIXOTIC",
+    "options": [
+      "Idealistic",
+      "Dreamy",
+      "Pragmatic",
+      "Romantic"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quixotic means the opposite of Pragmatic."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: RANCOR",
+    "options": [
+      "Spite",
+      "Amity",
+      "Bitterness",
+      "Hatred"
+    ],
+    "correctIndex": 1,
+    "explanation": "Rancor means the opposite of Amity."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: SAGACIOUS",
+    "options": [
+      "Foolish",
+      "Smart",
+      "Wise",
+      "Clever"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sagacious means the opposite of Foolish."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: TACITURN",
+    "options": [
+      "Quiet",
+      "Silent",
+      "Reserved",
+      "Loquacious"
+    ],
+    "correctIndex": 3,
+    "explanation": "Taciturn means the opposite of Loquacious."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: UBIQUITOUS",
+    "options": [
+      "Universal",
+      "Rare",
+      "Common",
+      "Everywhere"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ubiquitous means the opposite of Rare."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: VACILLATE",
+    "options": [
+      "Waver",
+      "Fluctuate",
+      "Decide",
+      "Hesitate"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vacillate means the opposite of Decide."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: WANE",
+    "options": [
+      "Wax",
+      "Diminish",
+      "Fade",
+      "Decrease"
+    ],
+    "correctIndex": 0,
+    "explanation": "Wane means the opposite of Wax."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: YOKE",
+    "options": [
+      "Connect",
+      "Join",
+      "Link",
+      "Separate"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yoke means the opposite of Separate."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: ZEPHYR",
+    "options": [
+      "Wind",
+      "Air",
+      "Breeze",
+      "Gale"
+    ],
+    "correctIndex": 3,
+    "explanation": "Zephyr means the opposite of Gale."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: ABATE",
+    "options": [
+      "Reduce",
+      "Decrease",
+      "Intensify",
+      "Lessen"
+    ],
+    "correctIndex": 2,
+    "explanation": "Abate means the opposite of Intensify."
+  },
+  {
+    "question": "Choose the word OPPOSITE in meaning to: BOLSTER",
+    "options": [
+      "Strengthen",
+      "Undermine",
+      "Reinforce",
+      "Support"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bolster means the opposite of Undermine."
+  },
+  {
+    "question": "Cobbler is to Shoe as Blacksmith is to:",
+    "options": [
+      "Wood",
+      "Clay",
+      "Gold",
+      "Iron"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Cobbler relates to Shoe in the same way Blacksmith relates to Iron."
+  },
+  {
+    "question": "Botany is to Plants as Zoology is to:",
+    "options": [
+      "Stars",
+      "Weather",
+      "Rocks",
+      "Animals"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Botany relates to Plants in the same way Zoology relates to Animals."
+  },
+  {
+    "question": "Dermatologist is to Skin as Cardiologist is to:",
+    "options": [
+      "Brain",
+      "Heart",
+      "Bones",
+      "Lungs"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Dermatologist relates to Skin in the same way Cardiologist relates to Heart."
+  },
+  {
+    "question": "Fickle is to Stable as Impulsive is to:",
+    "options": [
+      "Slow",
+      "Rash",
+      "Thoughtful",
+      "Quick"
+    ],
+    "correctIndex": 2,
+    "explanation": "Relationship: Fickle relates to Stable in the same way Impulsive relates to Thoughtful."
+  },
+  {
+    "question": "Gullible is to Duped as Malleable is to:",
+    "options": [
+      "Hard",
+      "Fixed",
+      "Broken",
+      "Shaped"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Gullible relates to Duped in the same way Malleable relates to Shaped."
+  },
+  {
+    "question": "Immutable is to Change as Eternal is to:",
+    "options": [
+      "Space",
+      "Time",
+      "Life",
+      "End"
+    ],
+    "correctIndex": 3,
+    "explanation": "Relationship: Immutable relates to Change in the same way Eternal relates to End."
+  },
+  {
+    "question": "Juggernaut is to Unstoppable as Enigma is to:",
+    "options": [
+      "Clear",
+      "Mysterious",
+      "Open",
+      "Simple"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Juggernaut relates to Unstoppable in the same way Enigma relates to Mysterious."
+  },
+  {
+    "question": "Kernel is to Corn as Pit is to:",
+    "options": [
+      "Cherry",
+      "Skin",
+      "Flesh",
+      "Juice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Relationship: Kernel relates to Corn in the same way Pit relates to Cherry."
+  },
+  {
+    "question": "Labyrinth is to Maze as Paradox is to:",
+    "options": [
+      "Answer",
+      "Puzzle",
+      "Fact",
+      "Solution"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Labyrinth relates to Maze in the same way Paradox relates to Puzzle."
+  },
+  {
+    "question": "Maelstrom is to Chaos as Oasis is to:",
+    "options": [
+      "Storm",
+      "Calm",
+      "Sand",
+      "Wind"
+    ],
+    "correctIndex": 1,
+    "explanation": "Relationship: Maelstrom relates to Chaos in the same way Oasis relates to Calm."
+  },
+  {
+    "question": "Complete the sentence: The ______ evidence made the case difficult to prove.",
+    "options": [
+      "Obvious",
+      "Circumstantial",
+      "Direct",
+      "Clear"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Circumstantial' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: His ______ for detail ensured the project was flawless.",
+    "options": [
+      "Hatred",
+      "Penchant",
+      "Dislike",
+      "Apathy"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Penchant' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the situation was lost on him.",
+    "options": [
+      "Lightness",
+      "Gravity",
+      "Fun",
+      "Humor"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Gravity' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: She was ______ by the sudden change in plans.",
+    "options": [
+      "Disconcerted",
+      "Pleased",
+      "Happy",
+      "Excited"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Disconcerted' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ speech bored the audience to tears.",
+    "options": [
+      "Short",
+      "Exciting",
+      "Monotonous",
+      "Lively"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Monotonous' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: He ______ the opportunity to travel the world.",
+    "options": [
+      "Seized",
+      "Ignored",
+      "Missed",
+      "Lost"
+    ],
+    "correctIndex": 0,
+    "explanation": "'Seized' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the ancient city were impressive.",
+    "options": [
+      "People",
+      "Streets",
+      "Buildings",
+      "Ruins"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Ruins' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: Her ______ personality made her popular with everyone.",
+    "options": [
+      "Dull",
+      "Vivacious",
+      "Quiet",
+      "Boring"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Vivacious' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: The ______ of the storm caused widespread damage.",
+    "options": [
+      "Calmness",
+      "Peace",
+      "Quiet",
+      "Ferocity"
+    ],
+    "correctIndex": 3,
+    "explanation": "'Ferocity' fits the context best."
+  },
+  {
+    "question": "Complete the sentence: He was ______ for his bravery in battle.",
+    "options": [
+      "Disliked",
+      "Hated",
+      "Lauded",
+      "Ignored"
+    ],
+    "correctIndex": 2,
+    "explanation": "'Lauded' fits the context best."
   }
 ]
